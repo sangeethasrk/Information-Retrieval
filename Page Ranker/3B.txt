@@ -1,0 +1,1 @@
+When we change the Teleportation value from 0.85 to 0.95 Kendall Tau rank coefficient for both WG1 and WG2 increases.

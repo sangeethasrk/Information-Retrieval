@@ -1,0 +1,2409 @@
+ : {sustainableenergy.txt=2, greenpower.txt=2}
+ $1: {sustainableenergy.txt=1}
+ $100: {sustainableenergy.txt=1}
+ $148: {sustainableenergy.txt=1}
+ $2.4: {sustainableenergy.txt=2}
+ $204: {sustainableenergy.txt=1}
+ $243: {sustainableenergy.txt=1}
+ $375: {sustainableenergy.txt=1}
+ $450: {sustainableenergy.txt=1}
+ $51.1: {sustainableenergy.txt=1}
+ $55: {sustainableenergy.txt=1}
+ $67: {sustainableenergy.txt=1}
+ $75: {sustainableenergy.txt=1}
+ 'green: {sustainableenergy.txt=1}
+ 'greenpower: {greenpower.txt=1}
+ +: {greenpower.txt=2}
+ -: {sustainableenergy.txt=5, greenpower.txt=3}
+ 002: {greenpower.txt=1}
+ 1: {sustainableenergy.txt=1, greenpower.txt=1}
+ 1.2: {sustainableenergy.txt=1}
+ 1.3%: {sustainableenergy.txt=1}
+ 10: {sustainableenergy.txt=3}
+ 10%: {sustainableenergy.txt=1}
+ 100: {sustainableenergy.txt=2}
+ 100%: {sustainableenergy.txt=2}
+ 1000: {sustainableenergy.txt=1}
+ 100mw: {sustainableenergy.txt=1}
+ 100 gw: {sustainableenergy.txt=1}
+ 1020: {sustainableenergy.txt=1}
+ 10th: {sustainableenergy.txt=1}
+ 11: {sustainableenergy.txt=1}
+ 11-: {greenpower.txt=1}
+ 110: {greenpower.txt=1}
+ 12: {sustainableenergy.txt=1}
+ 120,791: {sustainableenergy.txt=1}
+ 12v: {greenpower.txt=1}
+ 13: {sustainableenergy.txt=1}
+ 15: {sustainableenergy.txt=2}
+ 154: {sustainableenergy.txt=1}
+ 16: {greenpower.txt=1}
+ 16%: {sustainableenergy.txt=1}
+ 16-year-olds: {greenpower.txt=1}
+ 179: {greenpower.txt=1}
+ 18: {sustainableenergy.txt=1}
+ 1970s: {sustainableenergy.txt=3}
+ 1973: {sustainableenergy.txt=1}
+ 1978: {sustainableenergy.txt=1}
+ 1979: {sustainableenergy.txt=1}
+ 1980s: {sustainableenergy.txt=3}
+ 1990s: {sustainableenergy.txt=1}
+ 1992: {sustainableenergy.txt=1}
+ 1995: {sustainableenergy.txt=1}
+ 1996: {sustainableenergy.txt=1}
+ 1998: {greenpower.txt=1}
+ 1999: {greenpower.txt=2}
+ 19th: {sustainableenergy.txt=2}
+ 1st: {greenpower.txt=1}
+ 2: {sustainableenergy.txt=2, greenpower.txt=1}
+ 2,800: {sustainableenergy.txt=1}
+ 2.25: {sustainableenergy.txt=1}
+ 20: {sustainableenergy.txt=2}
+ 20%: {sustainableenergy.txt=1}
+ 20,000: {sustainableenergy.txt=1}
+ 20-30 mph: {greenpower.txt=1}
+ 200-300%: {sustainableenergy.txt=1}
+ 2000: {sustainableenergy.txt=1}
+ 2004: {sustainableenergy.txt=3}
+ 2006: {sustainableenergy.txt=3, greenpower.txt=4}
+ 2007: {sustainableenergy.txt=9, greenpower.txt=1}
+ 2008: {sustainableenergy.txt=3}
+ 2009: {sustainableenergy.txt=4}
+ 2010: {sustainableenergy.txt=6}
+ 2011: {sustainableenergy.txt=4, greenpower.txt=2}
+ 2012: {sustainableenergy.txt=4, greenpower.txt=2}
+ 2013: {greenpower.txt=4}
+ 2014: {sustainableenergy.txt=2, greenpower.txt=8}
+ 2015: {greenpower.txt=1}
+ 2020: {sustainableenergy.txt=3}
+ 20th: {sustainableenergy.txt=1}
+ 21st: {sustainableenergy.txt=2}
+ 24: {sustainableenergy.txt=1, greenpower.txt=1}
+ 24+: {greenpower.txt=2}
+ 240w: {greenpower.txt=1}
+ 24v: {greenpower.txt=1}
+ 25: {greenpower.txt=2}
+ 250: {sustainableenergy.txt=2}
+ 25 mph: {greenpower.txt=1}
+ 26%: {sustainableenergy.txt=1}
+ 270: {sustainableenergy.txt=1}
+ 28: {sustainableenergy.txt=1}
+ 28.8: {sustainableenergy.txt=1}
+ 2nd: {greenpower.txt=1}
+ 3: {sustainableenergy.txt=1, greenpower.txt=2}
+ 3.1%: {sustainableenergy.txt=1}
+ 30: {sustainableenergy.txt=2, greenpower.txt=1}
+ 300: {sustainableenergy.txt=1}
+ 317: {sustainableenergy.txt=1}
+ 33.9%: {sustainableenergy.txt=1}
+ 34%: {sustainableenergy.txt=1}
+ 343: {sustainableenergy.txt=1}
+ 350: {sustainableenergy.txt=2}
+ 3500: {sustainableenergy.txt=1}
+ 367: {sustainableenergy.txt=1}
+ 369: {sustainableenergy.txt=1}
+ 3degrees: {sustainableenergy.txt=1}
+ 4: {sustainableenergy.txt=1}
+ 4-hour: {greenpower.txt=1}
+ 40: {sustainableenergy.txt=1}
+ 40%: {sustainableenergy.txt=2}
+ 400: {sustainableenergy.txt=1}
+ 40 mph: {greenpower.txt=1}
+ 420: {sustainableenergy.txt=1}
+ 430: {sustainableenergy.txt=1}
+ 45: {greenpower.txt=1}
+ 465,000: {sustainableenergy.txt=1}
+ 4m: {sustainableenergy.txt=1}
+ 5: {sustainableenergy.txt=3}
+ 5%: {sustainableenergy.txt=1}
+ 5,000: {sustainableenergy.txt=1}
+ 50: {sustainableenergy.txt=2}
+ 50%: {sustainableenergy.txt=1}
+ 500: {sustainableenergy.txt=2, greenpower.txt=2}
+ 50mw: {sustainableenergy.txt=1}
+ 51%: {sustainableenergy.txt=1}
+ 525: {sustainableenergy.txt=1}
+ 55: {sustainableenergy.txt=1}
+ 6: {greenpower.txt=1}
+ 60: {greenpower.txt=2}
+ 60%: {sustainableenergy.txt=1}
+ 62: {sustainableenergy.txt=1}
+ 64mw: {sustainableenergy.txt=1}
+ 66: {sustainableenergy.txt=2}
+ 7: {sustainableenergy.txt=3}
+ 7%: {sustainableenergy.txt=1}
+ 70: {sustainableenergy.txt=1, greenpower.txt=1}
+ 70%: {sustainableenergy.txt=1}
+ 75%: {sustainableenergy.txt=1}
+ 8: {sustainableenergy.txt=1}
+ 8.5: {sustainableenergy.txt=1}
+ 80: {greenpower.txt=1}
+ 80-90%: {sustainableenergy.txt=1}
+ 845: {sustainableenergy.txt=1}
+ 85: {sustainableenergy.txt=1}
+ 85%: {sustainableenergy.txt=1}
+ 9: {greenpower.txt=1}
+ 9%: {sustainableenergy.txt=1}
+ 9,000: {sustainableenergy.txt=1}
+ 90: {greenpower.txt=4}
+ 97%: {sustainableenergy.txt=1}
+ 9–11: {greenpower.txt=1}
+ =: {greenpower.txt=2}
+ >3000mpge: {greenpower.txt=1}
+ a: {sustainableenergy.txt=147, greenpower.txt=35}
+ a3: {sustainableenergy.txt=1}
+ ability: {sustainableenergy.txt=3}
+ able: {sustainableenergy.txt=3}
+ about: {sustainableenergy.txt=6, greenpower.txt=1}
+ above: {sustainableenergy.txt=1}
+ absorbed: {sustainableenergy.txt=1}
+ abundance: {sustainableenergy.txt=1}
+ abundant: {sustainableenergy.txt=1}
+ academic: {sustainableenergy.txt=2}
+ acceptance: {sustainableenergy.txt=1}
+ accessible: {sustainableenergy.txt=1}
+ accident: {sustainableenergy.txt=2}
+ accidents: {sustainableenergy.txt=1}
+ accommodate: {sustainableenergy.txt=1}
+ accompanied: {sustainableenergy.txt=1}
+ according: {sustainableenergy.txt=7}
+ accounts: {sustainableenergy.txt=2}
+ accredited: {sustainableenergy.txt=1}
+ achieve: {sustainableenergy.txt=1}
+ achieved: {sustainableenergy.txt=1}
+ acid: {sustainableenergy.txt=4}
+ acquisition: {sustainableenergy.txt=1}
+ acre: {sustainableenergy.txt=1}
+ across: {sustainableenergy.txt=1}
+ actinide: {sustainableenergy.txt=1}
+ activity: {sustainableenergy.txt=1}
+ actors: {sustainableenergy.txt=1}
+ actually: {sustainableenergy.txt=2}
+ add: {sustainableenergy.txt=2}
+ added: {sustainableenergy.txt=1}
+ addition: {sustainableenergy.txt=3}
+ additional: {sustainableenergy.txt=4, greenpower.txt=1}
+ additionality: {sustainableenergy.txt=2}
+ additionally: {sustainableenergy.txt=1}
+ addressing: {sustainableenergy.txt=1}
+ adelaide: {sustainableenergy.txt=1}
+ adjusted: {sustainableenergy.txt=1}
+ adults: {greenpower.txt=1}
+ advanced: {sustainableenergy.txt=3}
+ advancement: {sustainableenergy.txt=1}
+ advancements: {sustainableenergy.txt=2}
+ advantage: {sustainableenergy.txt=2}
+ advantages: {sustainableenergy.txt=2}
+ advice: {sustainableenergy.txt=1}
+ advocated: {sustainableenergy.txt=1}
+ aerodynamics: {sustainableenergy.txt=1}
+ aesthetic: {sustainableenergy.txt=1}
+ affordable: {sustainableenergy.txt=1}
+ africa: {sustainableenergy.txt=1}
+ after: {sustainableenergy.txt=2, greenpower.txt=1}
+ again: {sustainableenergy.txt=1}
+ against: {greenpower.txt=1}
+ age: {greenpower.txt=1}
+ aged: {greenpower.txt=2}
+ agency: {sustainableenergy.txt=5}
+ ages: {greenpower.txt=1}
+ aggregation: {sustainableenergy.txt=2}
+ aggressively: {sustainableenergy.txt=1}
+ agm: {greenpower.txt=1}
+ ago: {sustainableenergy.txt=1}
+ agricultural: {sustainableenergy.txt=1}
+ agronomy: {sustainableenergy.txt=1}
+ aguçadora: {sustainableenergy.txt=1}
+ air: {sustainableenergy.txt=5}
+ airplanes: {sustainableenergy.txt=1}
+ airport: {sustainableenergy.txt=1}
+ alabama: {sustainableenergy.txt=1}
+ alberta: {sustainableenergy.txt=1}
+ algaculture—: {sustainableenergy.txt=1}
+ algae: {sustainableenergy.txt=7}
+ all: {sustainableenergy.txt=9, greenpower.txt=7}
+ alleviate: {sustainableenergy.txt=1}
+ alleviating: {sustainableenergy.txt=1}
+ alliance: {sustainableenergy.txt=2}
+ allow: {sustainableenergy.txt=2, greenpower.txt=1}
+ allowed: {greenpower.txt=1}
+ allowing: {sustainableenergy.txt=1}
+ allows: {sustainableenergy.txt=1, greenpower.txt=1}
+ almost: {sustainableenergy.txt=4}
+ alone: {sustainableenergy.txt=1}
+ along: {greenpower.txt=1}
+ already: {sustainableenergy.txt=2}
+ also: {sustainableenergy.txt=25, greenpower.txt=3}
+ alta: {sustainableenergy.txt=1}
+ alternative: {sustainableenergy.txt=5}
+ although: {sustainableenergy.txt=3}
+ always: {sustainableenergy.txt=1}
+ amalgamated: {greenpower.txt=1}
+ america: {sustainableenergy.txt=3}
+ american: {sustainableenergy.txt=2}
+ ammonia: {sustainableenergy.txt=1}
+ among: {sustainableenergy.txt=5}
+ amount: {sustainableenergy.txt=12}
+ amounts: {sustainableenergy.txt=2}
+ an: {sustainableenergy.txt=28, greenpower.txt=4}
+ anaerobic: {sustainableenergy.txt=1}
+ analysis: {sustainableenergy.txt=3}
+ analytical: {sustainableenergy.txt=1}
+ and: {sustainableenergy.txt=248, greenpower.txt=45}
+ angeles-based: {sustainableenergy.txt=1}
+ animal: {sustainableenergy.txt=1}
+ announced: {sustainableenergy.txt=2, greenpower.txt=2}
+ annual: {sustainableenergy.txt=1}
+ another: {sustainableenergy.txt=4, greenpower.txt=1}
+ any: {sustainableenergy.txt=10, greenpower.txt=3}
+ anywhere: {greenpower.txt=1}
+ apart: {sustainableenergy.txt=1}
+ apparatus': {sustainableenergy.txt=1}
+ appeal: {sustainableenergy.txt=1}
+ appetite: {sustainableenergy.txt=1}
+ applications: {sustainableenergy.txt=3}
+ approach: {sustainableenergy.txt=3}
+ approaches: {sustainableenergy.txt=2}
+ approximately: {sustainableenergy.txt=2, greenpower.txt=1}
+ april: {greenpower.txt=1}
+ aquatic: {sustainableenergy.txt=1}
+ aquifers: {sustainableenergy.txt=1}
+ arcadia: {sustainableenergy.txt=1}
+ are: {sustainableenergy.txt=90, greenpower.txt=15}
+ are:: {sustainableenergy.txt=3, greenpower.txt=1}
+ area: {sustainableenergy.txt=3}
+ areas: {sustainableenergy.txt=12}
+ argued: {sustainableenergy.txt=1}
+ arises: {sustainableenergy.txt=1}
+ arnold: {sustainableenergy.txt=1}
+ around: {sustainableenergy.txt=6, greenpower.txt=5}
+ arrangements: {sustainableenergy.txt=2}
+ array: {sustainableenergy.txt=2}
+ arrive: {sustainableenergy.txt=1}
+ article: {sustainableenergy.txt=3}
+ artificial: {sustainableenergy.txt=5}
+ as: {sustainableenergy.txt=76, greenpower.txt=19}
+ asia: {sustainableenergy.txt=1}
+ asian: {sustainableenergy.txt=1}
+ aspects: {sustainableenergy.txt=1}
+ assemble: {greenpower.txt=1}
+ associated: {sustainableenergy.txt=2}
+ assured: {sustainableenergy.txt=1}
+ at: {sustainableenergy.txt=41, greenpower.txt=16}
+ atmosphere: {sustainableenergy.txt=3}
+ atmospheres: {sustainableenergy.txt=1}
+ atmospheric: {sustainableenergy.txt=2}
+ attendance: {greenpower.txt=1}
+ attention: {sustainableenergy.txt=1, greenpower.txt=1}
+ attracting: {sustainableenergy.txt=1}
+ attracts: {greenpower.txt=2}
+ audi: {sustainableenergy.txt=1}
+ australia: {sustainableenergy.txt=6}
+ australia's: {sustainableenergy.txt=1}
+ automation: {sustainableenergy.txt=1}
+ automobile: {sustainableenergy.txt=2}
+ automobiles: {sustainableenergy.txt=1}
+ automotive: {sustainableenergy.txt=3}
+ autonomous: {sustainableenergy.txt=1}
+ autumn: {sustainableenergy.txt=1}
+ available: {sustainableenergy.txt=8, greenpower.txt=2}
+ average: {sustainableenergy.txt=2, greenpower.txt=3}
+ avoided: {sustainableenergy.txt=1}
+ award: {sustainableenergy.txt=1, greenpower.txt=1}
+ awarded: {sustainableenergy.txt=1, greenpower.txt=3}
+ awards: {sustainableenergy.txt=1, greenpower.txt=3}
+ away: {sustainableenergy.txt=1, greenpower.txt=1}
+ back: {sustainableenergy.txt=2}
+ backed: {sustainableenergy.txt=1}
+ baden-württemberg: {sustainableenergy.txt=1}
+ bamboo: {sustainableenergy.txt=1}
+ ban: {greenpower.txt=1}
+ banned: {greenpower.txt=1}
+ bard: {sustainableenergy.txt=1}
+ barrel: {sustainableenergy.txt=1}
+ base: {sustainableenergy.txt=1}
+ base-load: {sustainableenergy.txt=1}
+ based: {sustainableenergy.txt=2}
+ based-ethanol: {sustainableenergy.txt=1}
+ bases: {sustainableenergy.txt=1}
+ basic: {greenpower.txt=1}
+ batteries: {sustainableenergy.txt=4, greenpower.txt=13}
+ battery: {sustainableenergy.txt=3, greenpower.txt=2}
+ be: {sustainableenergy.txt=70, greenpower.txt=11}
+ beam: {sustainableenergy.txt=1}
+ because: {sustainableenergy.txt=6}
+ become: {greenpower.txt=1}
+ becoming: {sustainableenergy.txt=1}
+ bedrock: {sustainableenergy.txt=1}
+ been: {sustainableenergy.txt=13, greenpower.txt=5}
+ before: {sustainableenergy.txt=1}
+ began: {sustainableenergy.txt=1}
+ begin: {sustainableenergy.txt=1}
+ beginning: {sustainableenergy.txt=1}
+ being: {sustainableenergy.txt=12, greenpower.txt=4}
+ believe: {sustainableenergy.txt=1}
+ belong: {sustainableenergy.txt=1}
+ benefit: {sustainableenergy.txt=4}
+ benefits: {sustainableenergy.txt=7}
+ besides: {sustainableenergy.txt=3}
+ best: {sustainableenergy.txt=1, greenpower.txt=4}
+ better: {sustainableenergy.txt=1}
+ between: {sustainableenergy.txt=5, greenpower.txt=2}
+ bev: {sustainableenergy.txt=1}
+ bevs: {sustainableenergy.txt=1}
+ beyond: {sustainableenergy.txt=1}
+ big: {sustainableenergy.txt=1}
+ bigger: {sustainableenergy.txt=1}
+ biggest: {sustainableenergy.txt=1}
+ bill: {sustainableenergy.txt=1}
+ billion: {sustainableenergy.txt=11}
+ bio-fuels: {sustainableenergy.txt=1}
+ bio-reactors: {sustainableenergy.txt=1}
+ biochemical: {sustainableenergy.txt=1}
+ bioenergy: {sustainableenergy.txt=4}
+ biofuel: {sustainableenergy.txt=7}
+ biofuels: {sustainableenergy.txt=12}
+ biogas: {sustainableenergy.txt=2}
+ biological: {sustainableenergy.txt=1}
+ biomass: {sustainableenergy.txt=18}
+ biorefineries: {sustainableenergy.txt=1}
+ biorefinery: {sustainableenergy.txt=1}
+ biotechnology: {sustainableenergy.txt=1}
+ black: {sustainableenergy.txt=1}
+ blended: {sustainableenergy.txt=1}
+ blends: {sustainableenergy.txt=3}
+ bloomberg: {sustainableenergy.txt=1}
+ blow: {sustainableenergy.txt=1}
+ blows: {sustainableenergy.txt=1}
+ bodywork: {greenpower.txt=1}
+ bonds: {sustainableenergy.txt=2}
+ booming: {sustainableenergy.txt=1}
+ borehole: {sustainableenergy.txt=2}
+ both: {sustainableenergy.txt=6}
+ bought: {sustainableenergy.txt=1}
+ branches: {sustainableenergy.txt=2}
+ brazil: {sustainableenergy.txt=5}
+ breadth: {sustainableenergy.txt=1}
+ breeder: {sustainableenergy.txt=1}
+ breeding: {sustainableenergy.txt=1}
+ briggs: {sustainableenergy.txt=2}
+ brine: {sustainableenergy.txt=1}
+ bring: {sustainableenergy.txt=1}
+ briquette: {sustainableenergy.txt=1}
+ briquettes: {sustainableenergy.txt=3}
+ bristol: {greenpower.txt=1}
+ britain: {greenpower.txt=1}
+ broad: {sustainableenergy.txt=1}
+ broaden: {sustainableenergy.txt=1}
+ broadened: {sustainableenergy.txt=1}
+ broadly: {sustainableenergy.txt=1}
+ brown: {sustainableenergy.txt=1}
+ bubbles: {sustainableenergy.txt=2}
+ budget: {sustainableenergy.txt=5}
+ buffer: {sustainableenergy.txt=1}
+ build: {sustainableenergy.txt=2, greenpower.txt=3}
+ building: {sustainableenergy.txt=1, greenpower.txt=1}
+ buildings: {sustainableenergy.txt=1}
+ built: {sustainableenergy.txt=4, greenpower.txt=1}
+ burn: {sustainableenergy.txt=1}
+ burned: {sustainableenergy.txt=2}
+ businesses: {sustainableenergy.txt=2}
+ but: {sustainableenergy.txt=12, greenpower.txt=4}
+ buy: {sustainableenergy.txt=2}
+ buying: {sustainableenergy.txt=1}
+ buys: {sustainableenergy.txt=2}
+ by: {sustainableenergy.txt=58, greenpower.txt=10}
+ california: {sustainableenergy.txt=4}
+ california's: {sustainableenergy.txt=1}
+ called: {sustainableenergy.txt=5}
+ calling: {sustainableenergy.txt=1}
+ calorific: {sustainableenergy.txt=1}
+ caltech: {sustainableenergy.txt=1}
+ camarillo: {sustainableenergy.txt=1}
+ campaign: {sustainableenergy.txt=1}
+ can: {sustainableenergy.txt=43, greenpower.txt=4}
+ canada: {sustainableenergy.txt=1}
+ cane: {sustainableenergy.txt=1}
+ cannot: {sustainableenergy.txt=1, greenpower.txt=1}
+ capability: {sustainableenergy.txt=2}
+ capable: {sustainableenergy.txt=3}
+ capacities: {sustainableenergy.txt=1}
+ capacity: {sustainableenergy.txt=9}
+ capita: {sustainableenergy.txt=1}
+ capital: {sustainableenergy.txt=3}
+ capture: {sustainableenergy.txt=4}
+ captured: {sustainableenergy.txt=1}
+ car: {sustainableenergy.txt=2, greenpower.txt=11}
+ car's: {greenpower.txt=1}
+ carbon: {sustainableenergy.txt=20}
+ carbon-neutral: {sustainableenergy.txt=7}
+ carbonic: {sustainableenergy.txt=4}
+ career: {greenpower.txt=1}
+ careful: {sustainableenergy.txt=1}
+ carolina: {sustainableenergy.txt=2}
+ carolina-based: {sustainableenergy.txt=1}
+ carried: {sustainableenergy.txt=1}
+ carrier: {sustainableenergy.txt=1}
+ carriers: {sustainableenergy.txt=1}
+ carry: {greenpower.txt=1}
+ cars: {sustainableenergy.txt=4, greenpower.txt=13}
+ case: {sustainableenergy.txt=2}
+ cases: {sustainableenergy.txt=4}
+ castle: {greenpower.txt=1}
+ catalytic: {sustainableenergy.txt=1}
+ category: {sustainableenergy.txt=1, greenpower.txt=2}
+ cause: {sustainableenergy.txt=1}
+ caused: {sustainableenergy.txt=1}
+ causing: {sustainableenergy.txt=1}
+ ccs: {sustainableenergy.txt=1}
+ cell: {sustainableenergy.txt=1}
+ cells: {sustainableenergy.txt=2}
+ cellulose: {sustainableenergy.txt=2}
+ cellulosic: {sustainableenergy.txt=8}
+ celsius: {sustainableenergy.txt=1}
+ cent: {sustainableenergy.txt=1}
+ center: {sustainableenergy.txt=6}
+ centered: {sustainableenergy.txt=1}
+ centers: {sustainableenergy.txt=1}
+ central: {sustainableenergy.txt=1}
+ centralized: {sustainableenergy.txt=2}
+ centre: {sustainableenergy.txt=1}
+ centuries: {sustainableenergy.txt=1}
+ century: {sustainableenergy.txt=3}
+ certain: {sustainableenergy.txt=1}
+ certificates: {sustainableenergy.txt=1}
+ certification: {sustainableenergy.txt=2}
+ cfsef: {sustainableenergy.txt=1}
+ challenge: {sustainableenergy.txt=1, greenpower.txt=2}
+ challenges: {sustainableenergy.txt=1}
+ chamber: {greenpower.txt=1}
+ champions: {greenpower.txt=1}
+ championship: {greenpower.txt=3}
+ change: {sustainableenergy.txt=3, greenpower.txt=2}
+ changed: {greenpower.txt=2}
+ changes: {sustainableenergy.txt=5}
+ changing: {sustainableenergy.txt=1}
+ characteristics: {greenpower.txt=1}
+ charcoal: {sustainableenergy.txt=4}
+ charitable: {greenpower.txt=1}
+ chase: {sustainableenergy.txt=1}
+ chassis: {greenpower.txt=1}
+ check: {sustainableenergy.txt=1}
+ chemical: {sustainableenergy.txt=2}
+ chemicals: {sustainableenergy.txt=1}
+ chernobyl: {sustainableenergy.txt=1}
+ children: {greenpower.txt=1}
+ china: {sustainableenergy.txt=7}
+ chips: {sustainableenergy.txt=1}
+ choice: {sustainableenergy.txt=2, greenpower.txt=1}
+ circuit: {greenpower.txt=3}
+ circuits: {sustainableenergy.txt=1, greenpower.txt=3}
+ city: {sustainableenergy.txt=1}
+ claiming: {sustainableenergy.txt=1}
+ claims: {sustainableenergy.txt=2, greenpower.txt=1}
+ class: {sustainableenergy.txt=1}
+ classes: {sustainableenergy.txt=1, greenpower.txt=1}
+ classified: {sustainableenergy.txt=2}
+ clean: {sustainableenergy.txt=13}
+ clear: {sustainableenergy.txt=2}
+ clearance: {sustainableenergy.txt=1}
+ climate: {sustainableenergy.txt=4}
+ climates: {sustainableenergy.txt=1}
+ clippings: {sustainableenergy.txt=1}
+ clock: {greenpower.txt=1}
+ close: {sustainableenergy.txt=1}
+ cloud: {sustainableenergy.txt=1}
+ clouds: {sustainableenergy.txt=1}
+ clusters: {sustainableenergy.txt=1}
+ clyde: {sustainableenergy.txt=1}
+ co2: {sustainableenergy.txt=4}
+ coal: {sustainableenergy.txt=2}
+ coal-ccs: {sustainableenergy.txt=1}
+ coal-generated: {sustainableenergy.txt=1}
+ cogeneration: {sustainableenergy.txt=2}
+ cold: {sustainableenergy.txt=3}
+ collect: {sustainableenergy.txt=1}
+ collected: {sustainableenergy.txt=2}
+ collector: {sustainableenergy.txt=1}
+ collectors: {sustainableenergy.txt=3}
+ colleges: {greenpower.txt=1}
+ columbia: {sustainableenergy.txt=1}
+ combe: {greenpower.txt=1}
+ combination: {sustainableenergy.txt=3}
+ combinations: {sustainableenergy.txt=1}
+ combined: {sustainableenergy.txt=3}
+ combustion: {sustainableenergy.txt=6}
+ come: {sustainableenergy.txt=1}
+ comes: {sustainableenergy.txt=2}
+ coming: {sustainableenergy.txt=1}
+ commendable: {sustainableenergy.txt=1}
+ commerce: {greenpower.txt=1}
+ commercial: {sustainableenergy.txt=9}
+ commercialised: {sustainableenergy.txt=1}
+ commercially: {sustainableenergy.txt=1}
+ commitments: {sustainableenergy.txt=2}
+ common: {sustainableenergy.txt=1}
+ commonplace: {greenpower.txt=1}
+ communicate: {sustainableenergy.txt=1}
+ communication: {sustainableenergy.txt=1}
+ communities: {sustainableenergy.txt=1}
+ community: {sustainableenergy.txt=5}
+ companies: {sustainableenergy.txt=8, greenpower.txt=4}
+ company: {sustainableenergy.txt=4}
+ company's: {sustainableenergy.txt=1}
+ comparable: {sustainableenergy.txt=1}
+ compared: {sustainableenergy.txt=1}
+ comparison: {sustainableenergy.txt=1}
+ compatible: {sustainableenergy.txt=1}
+ competing: {greenpower.txt=1}
+ competition: {greenpower.txt=2}
+ competitive: {sustainableenergy.txt=4, greenpower.txt=1}
+ complete: {sustainableenergy.txt=1, greenpower.txt=2}
+ completed: {greenpower.txt=3}
+ completion: {sustainableenergy.txt=1}
+ complicated: {sustainableenergy.txt=2}
+ complications: {sustainableenergy.txt=1}
+ components: {greenpower.txt=1}
+ composed: {sustainableenergy.txt=1}
+ comprehensive: {sustainableenergy.txt=1, greenpower.txt=1}
+ compressed: {sustainableenergy.txt=2}
+ comprising: {sustainableenergy.txt=1}
+ compromising: {sustainableenergy.txt=1}
+ computer: {sustainableenergy.txt=1}
+ computer-based: {sustainableenergy.txt=1}
+ concentrated: {sustainableenergy.txt=1}
+ concept: {sustainableenergy.txt=1}
+ conceptually: {sustainableenergy.txt=1}
+ concerns: {sustainableenergy.txt=5}
+ conducted: {sustainableenergy.txt=3}
+ conducting: {sustainableenergy.txt=4}
+ conducts: {sustainableenergy.txt=2}
+ confidence: {sustainableenergy.txt=1}
+ conflict: {sustainableenergy.txt=1}
+ conflict-affected: {sustainableenergy.txt=1}
+ congo: {sustainableenergy.txt=1}
+ connected: {sustainableenergy.txt=3}
+ conservation: {sustainableenergy.txt=1}
+ considerable: {sustainableenergy.txt=1, greenpower.txt=1}
+ consideration: {sustainableenergy.txt=1}
+ considered: {sustainableenergy.txt=7, greenpower.txt=2}
+ consist: {sustainableenergy.txt=2, greenpower.txt=1}
+ consisted: {greenpower.txt=1}
+ consists: {greenpower.txt=1}
+ consolidated: {sustainableenergy.txt=1}
+ constant: {sustainableenergy.txt=1}
+ constantly: {sustainableenergy.txt=1}
+ constellation: {sustainableenergy.txt=1}
+ constitute: {sustainableenergy.txt=2}
+ constructed: {sustainableenergy.txt=3}
+ construction: {sustainableenergy.txt=3}
+ consumed: {sustainableenergy.txt=2}
+ consumer: {sustainableenergy.txt=5}
+ consumers: {sustainableenergy.txt=5}
+ consumers—mostly: {sustainableenergy.txt=1}
+ consumer’s: {sustainableenergy.txt=1}
+ consumes: {sustainableenergy.txt=1}
+ consumption: {sustainableenergy.txt=4, greenpower.txt=1}
+ consumptionsandia: {sustainableenergy.txt=1}
+ contamination: {sustainableenergy.txt=1}
+ content: {sustainableenergy.txt=2}
+ context: {sustainableenergy.txt=1}
+ continue: {sustainableenergy.txt=2}
+ continued: {sustainableenergy.txt=3}
+ continuing: {sustainableenergy.txt=2}
+ continuously: {sustainableenergy.txt=1}
+ contract: {sustainableenergy.txt=1}
+ contribute: {sustainableenergy.txt=1}
+ contributing: {sustainableenergy.txt=2}
+ contributor: {sustainableenergy.txt=1}
+ contributors: {sustainableenergy.txt=1}
+ control: {sustainableenergy.txt=2}
+ controversial: {sustainableenergy.txt=1}
+ convective: {sustainableenergy.txt=1}
+ conventional: {sustainableenergy.txt=2}
+ conversion: {sustainableenergy.txt=5}
+ convert: {sustainableenergy.txt=2}
+ converted: {sustainableenergy.txt=3}
+ converter: {sustainableenergy.txt=1}
+ converters: {sustainableenergy.txt=2}
+ converting: {sustainableenergy.txt=1}
+ converts: {sustainableenergy.txt=1}
+ cooling: {sustainableenergy.txt=4}
+ copenhagen: {sustainableenergy.txt=1}
+ corn: {sustainableenergy.txt=5}
+ corn-based: {sustainableenergy.txt=1}
+ corporate: {sustainableenergy.txt=1, greenpower.txt=2}
+ corporation: {sustainableenergy.txt=2}
+ cost: {sustainableenergy.txt=16, greenpower.txt=1}
+ cost-benefit: {sustainableenergy.txt=1}
+ cost-effective: {sustainableenergy.txt=1}
+ costing: {greenpower.txt=1}
+ costly: {sustainableenergy.txt=1}
+ costs: {sustainableenergy.txt=11, greenpower.txt=1}
+ costs—especially: {sustainableenergy.txt=1}
+ could: {sustainableenergy.txt=2, greenpower.txt=3}
+ council: {sustainableenergy.txt=1}
+ countries: {sustainableenergy.txt=9, greenpower.txt=1}
+ country: {sustainableenergy.txt=3}
+ country's: {sustainableenergy.txt=1}
+ coupled: {sustainableenergy.txt=1}
+ cover: {sustainableenergy.txt=2, greenpower.txt=1}
+ create: {sustainableenergy.txt=4}
+ created: {sustainableenergy.txt=2}
+ creating: {sustainableenergy.txt=1}
+ creativity: {greenpower.txt=1}
+ crises: {sustainableenergy.txt=1}
+ criteria: {sustainableenergy.txt=2}
+ criticisms: {sustainableenergy.txt=1}
+ crop: {sustainableenergy.txt=2}
+ crop-based: {sustainableenergy.txt=1}
+ crops: {sustainableenergy.txt=1}
+ crs: {sustainableenergy.txt=1}
+ crust: {sustainableenergy.txt=2}
+ csp: {sustainableenergy.txt=2}
+ cultural: {sustainableenergy.txt=1}
+ culture: {sustainableenergy.txt=1}
+ cumulative: {sustainableenergy.txt=1}
+ curcas: {sustainableenergy.txt=1}
+ current: {sustainableenergy.txt=8, greenpower.txt=1}
+ currently: {sustainableenergy.txt=4}
+ currents: {sustainableenergy.txt=1}
+ curve: {sustainableenergy.txt=1}
+ customers: {sustainableenergy.txt=5}
+ cuts: {sustainableenergy.txt=2}
+ cycle: {sustainableenergy.txt=2}
+ daimlerchrysler: {sustainableenergy.txt=1}
+ danger: {sustainableenergy.txt=1}
+ dangerous: {sustainableenergy.txt=1}
+ darlington: {sustainableenergy.txt=1}
+ data: {sustainableenergy.txt=1}
+ dates: {sustainableenergy.txt=1}
+ day: {sustainableenergy.txt=5, greenpower.txt=2}
+ days: {greenpower.txt=1}
+ dead: {sustainableenergy.txt=1}
+ deaths: {sustainableenergy.txt=1}
+ debatable: {sustainableenergy.txt=1}
+ decades: {sustainableenergy.txt=2}
+ decay: {sustainableenergy.txt=1}
+ december: {greenpower.txt=1}
+ decentralizing: {sustainableenergy.txt=1}
+ decrease: {sustainableenergy.txt=2}
+ decreased: {sustainableenergy.txt=1}
+ decreases: {sustainableenergy.txt=1}
+ decreasing: {sustainableenergy.txt=1}
+ dedicated: {sustainableenergy.txt=4}
+ deemed: {sustainableenergy.txt=1}
+ deep: {sustainableenergy.txt=3}
+ define: {sustainableenergy.txt=1}
+ defined: {sustainableenergy.txt=3}
+ defines: {sustainableenergy.txt=1}
+ definition: {sustainableenergy.txt=1}
+ definitions: {sustainableenergy.txt=1}
+ degradation: {sustainableenergy.txt=1}
+ degrees: {sustainableenergy.txt=1}
+ deliver: {sustainableenergy.txt=1}
+ delivery: {sustainableenergy.txt=1}
+ demand: {sustainableenergy.txt=11}
+ demands: {sustainableenergy.txt=1}
+ democratic: {sustainableenergy.txt=1}
+ demonstrated: {sustainableenergy.txt=2}
+ demonstration: {sustainableenergy.txt=1}
+ denmark: {sustainableenergy.txt=2}
+ department: {sustainableenergy.txt=4}
+ departments: {sustainableenergy.txt=1}
+ depend: {sustainableenergy.txt=2}
+ dependence: {sustainableenergy.txt=1}
+ dependency: {sustainableenergy.txt=1}
+ depending: {greenpower.txt=2}
+ depends: {sustainableenergy.txt=1}
+ deployment: {sustainableenergy.txt=1}
+ depth: {sustainableenergy.txt=1}
+ depths: {sustainableenergy.txt=1}
+ derived: {sustainableenergy.txt=5}
+ design: {sustainableenergy.txt=1, greenpower.txt=1}
+ designed: {sustainableenergy.txt=3, greenpower.txt=1}
+ designing: {sustainableenergy.txt=1, greenpower.txt=1}
+ designs: {sustainableenergy.txt=1, greenpower.txt=1}
+ desires: {sustainableenergy.txt=1}
+ despite: {sustainableenergy.txt=2, greenpower.txt=1}
+ destined: {sustainableenergy.txt=1}
+ detail: {greenpower.txt=1}
+ details: {sustainableenergy.txt=1}
+ determine: {greenpower.txt=1}
+ develop: {sustainableenergy.txt=1}
+ developed: {sustainableenergy.txt=7}
+ developer: {sustainableenergy.txt=1}
+ developing: {sustainableenergy.txt=8}
+ development: {sustainableenergy.txt=15, greenpower.txt=1}
+ developments: {sustainableenergy.txt=1}
+ develops: {sustainableenergy.txt=1}
+ devices: {sustainableenergy.txt=1}
+ diego-based: {sustainableenergy.txt=1}
+ diesel: {sustainableenergy.txt=2}
+ different: {sustainableenergy.txt=1, greenpower.txt=4}
+ difficult: {sustainableenergy.txt=3}
+ digestion: {sustainableenergy.txt=1}
+ dioxide: {sustainableenergy.txt=11}
+ directed: {sustainableenergy.txt=1}
+ direction: {sustainableenergy.txt=1}
+ directive: {sustainableenergy.txt=1}
+ directly: {sustainableenergy.txt=5}
+ disagree: {sustainableenergy.txt=1}
+ disaster: {sustainableenergy.txt=1}
+ discharge: {greenpower.txt=1}
+ disciplines: {sustainableenergy.txt=1}
+ dislocation: {sustainableenergy.txt=1}
+ dismantled: {greenpower.txt=1}
+ dismantling: {sustainableenergy.txt=1}
+ dispersed: {sustainableenergy.txt=1}
+ displace: {sustainableenergy.txt=2}
+ disposal: {sustainableenergy.txt=1}
+ distance: {greenpower.txt=3}
+ distinct: {sustainableenergy.txt=1}
+ distribute: {sustainableenergy.txt=2}
+ distribution: {sustainableenergy.txt=4}
+ district: {sustainableenergy.txt=1}
+ diverse: {sustainableenergy.txt=1}
+ diversified: {sustainableenergy.txt=1}
+ division: {sustainableenergy.txt=1}
+ do: {sustainableenergy.txt=4}
+ doe: {sustainableenergy.txt=2}
+ does: {sustainableenergy.txt=5}
+ doesn't: {greenpower.txt=1}
+ doing: {sustainableenergy.txt=1}
+ domains:: {sustainableenergy.txt=1}
+ domestic: {sustainableenergy.txt=5}
+ domestically: {sustainableenergy.txt=1}
+ dominated: {sustainableenergy.txt=1}
+ dominating: {sustainableenergy.txt=1}
+ done: {sustainableenergy.txt=1}
+ double: {sustainableenergy.txt=2}
+ down: {sustainableenergy.txt=1}
+ drafted: {greenpower.txt=1}
+ drag: {greenpower.txt=2}
+ drake: {sustainableenergy.txt=1}
+ dramatically: {sustainableenergy.txt=4}
+ drawbacks: {sustainableenergy.txt=1}
+ dried: {sustainableenergy.txt=1}
+ drilling: {sustainableenergy.txt=1}
+ drive: {greenpower.txt=1}
+ driven: {sustainableenergy.txt=1}
+ driver: {greenpower.txt=3}
+ drivers: {greenpower.txt=2}
+ driving: {sustainableenergy.txt=1, greenpower.txt=1}
+ dropped: {sustainableenergy.txt=2}
+ dry: {sustainableenergy.txt=2}
+ due: {sustainableenergy.txt=8, greenpower.txt=2}
+ dunsfold: {greenpower.txt=2}
+ during: {sustainableenergy.txt=8, greenpower.txt=3}
+ dutch: {sustainableenergy.txt=1}
+ dwelling: {sustainableenergy.txt=1}
+ e: {greenpower.txt=2}
+ e85: {sustainableenergy.txt=1}
+ e85-compatible: {sustainableenergy.txt=1}
+ each: {sustainableenergy.txt=2, greenpower.txt=10}
+ early: {sustainableenergy.txt=1}
+ earth: {sustainableenergy.txt=6}
+ earth's: {sustainableenergy.txt=3}
+ earth-orbiting: {sustainableenergy.txt=1}
+ east: {sustainableenergy.txt=1}
+ eastern: {sustainableenergy.txt=1}
+ easy: {greenpower.txt=1}
+ ec: {sustainableenergy.txt=1}
+ ecolabel: {sustainableenergy.txt=2}
+ ecologically: {sustainableenergy.txt=1}
+ ecology: {sustainableenergy.txt=1}
+ economic: {sustainableenergy.txt=4}
+ economical: {sustainableenergy.txt=3}
+ economically: {sustainableenergy.txt=4}
+ economics: {sustainableenergy.txt=1}
+ economies: {sustainableenergy.txt=3}
+ economy: {sustainableenergy.txt=2}
+ edging: {sustainableenergy.txt=1}
+ education: {greenpower.txt=2}
+ educative: {sustainableenergy.txt=1}
+ effect: {sustainableenergy.txt=2}
+ effective: {sustainableenergy.txt=5}
+ efficiency: {sustainableenergy.txt=16}
+ efficient: {sustainableenergy.txt=6, greenpower.txt=1}
+ effort: {sustainableenergy.txt=1}
+ efforts: {sustainableenergy.txt=2}
+ eg: {sustainableenergy.txt=9}
+ egs: {sustainableenergy.txt=2}
+ eight: {greenpower.txt=2}
+ either: {sustainableenergy.txt=5, greenpower.txt=1}
+ ekoenergy: {sustainableenergy.txt=2}
+ electric: {sustainableenergy.txt=5, greenpower.txt=3}
+ electrical: {sustainableenergy.txt=8}
+ electricity: {sustainableenergy.txt=52}
+ electrification: {sustainableenergy.txt=2}
+ electrolysis: {sustainableenergy.txt=2}
+ electromagnetic: {sustainableenergy.txt=1}
+ elements: {sustainableenergy.txt=1}
+ eliminated: {sustainableenergy.txt=1}
+ elite: {sustainableenergy.txt=1}
+ emerged: {sustainableenergy.txt=1}
+ emerging: {sustainableenergy.txt=1}
+ emission: {sustainableenergy.txt=2}
+ emissionless: {sustainableenergy.txt=1}
+ emissions: {sustainableenergy.txt=12}
+ emotional: {greenpower.txt=1}
+ employment: {sustainableenergy.txt=1}
+ enable: {sustainableenergy.txt=2}
+ enabled: {sustainableenergy.txt=1}
+ enabling: {sustainableenergy.txt=2}
+ enclosed: {greenpower.txt=1}
+ encourage: {greenpower.txt=1}
+ encourages: {sustainableenergy.txt=1}
+ encouraging: {sustainableenergy.txt=1}
+ encyclopedia: {sustainableenergy.txt=1, greenpower.txt=1}
+ end: {sustainableenergy.txt=4, greenpower.txt=2}
+ endurance: {greenpower.txt=3}
+ energetic: {sustainableenergy.txt=1}
+ energies: {sustainableenergy.txt=2}
+ energy: {sustainableenergy.txt=243, greenpower.txt=2}
+ energy's: {sustainableenergy.txt=1}
+ energy—and: {sustainableenergy.txt=1}
+ engine: {sustainableenergy.txt=1}
+ engineering: {sustainableenergy.txt=1, greenpower.txt=4}
+ engineers: {greenpower.txt=1}
+ england: {sustainableenergy.txt=1, greenpower.txt=1}
+ english: {sustainableenergy.txt=1}
+ enhanced: {sustainableenergy.txt=1}
+ enhancing: {sustainableenergy.txt=1}
+ enough: {sustainableenergy.txt=5}
+ ensure: {sustainableenergy.txt=1}
+ ensures: {greenpower.txt=1}
+ entail: {sustainableenergy.txt=1}
+ enter: {greenpower.txt=1}
+ entered: {sustainableenergy.txt=1, greenpower.txt=1}
+ entering: {sustainableenergy.txt=1}
+ entirely: {sustainableenergy.txt=1}
+ entities: {sustainableenergy.txt=1}
+ entries: {greenpower.txt=1}
+ entry: {greenpower.txt=2}
+ environment: {sustainableenergy.txt=8}
+ environmental: {sustainableenergy.txt=13}
+ environmentalists: {sustainableenergy.txt=1}
+ epa: {sustainableenergy.txt=1}
+ epa's: {sustainableenergy.txt=1}
+ equal: {sustainableenergy.txt=1}
+ equals: {sustainableenergy.txt=1}
+ equation: {sustainableenergy.txt=1}
+ equipment: {sustainableenergy.txt=3}
+ equipped: {sustainableenergy.txt=1}
+ equivalent: {greenpower.txt=1}
+ especially: {sustainableenergy.txt=1}
+ essential: {sustainableenergy.txt=4}
+ essentially: {sustainableenergy.txt=1}
+ established: {sustainableenergy.txt=1}
+ establishing: {sustainableenergy.txt=1}
+ estimate: {sustainableenergy.txt=1}
+ estimated: {sustainableenergy.txt=1}
+ estimates: {sustainableenergy.txt=2}
+ etc: {sustainableenergy.txt=3, greenpower.txt=2}
+ ethanol: {sustainableenergy.txt=22}
+ eucalyptus: {sustainableenergy.txt=1}
+ eugene: {sustainableenergy.txt=1}
+ euro: {sustainableenergy.txt=2}
+ europe: {sustainableenergy.txt=3}
+ european: {sustainableenergy.txt=3}
+ even: {sustainableenergy.txt=5}
+ event: {greenpower.txt=3}
+ events: {greenpower.txt=11}
+ ever: {greenpower.txt=1}
+ evident: {greenpower.txt=1}
+ exact: {sustainableenergy.txt=1}
+ example: {sustainableenergy.txt=4}
+ examples: {sustainableenergy.txt=3}
+ except: {greenpower.txt=1}
+ exception: {sustainableenergy.txt=2}
+ excess: {sustainableenergy.txt=1}
+ excluding: {greenpower.txt=1}
+ executive: {sustainableenergy.txt=1}
+ executives: {sustainableenergy.txt=1}
+ exempts: {sustainableenergy.txt=1}
+ exhaust: {sustainableenergy.txt=5}
+ existing: {sustainableenergy.txt=3}
+ exists: {sustainableenergy.txt=2}
+ expand: {sustainableenergy.txt=2}
+ expanded: {sustainableenergy.txt=1}
+ expanding: {sustainableenergy.txt=1}
+ expected: {sustainableenergy.txt=1}
+ expensive: {sustainableenergy.txt=2}
+ experienced: {greenpower.txt=1}
+ experiencing: {sustainableenergy.txt=1}
+ experimented: {sustainableenergy.txt=1}
+ expert: {sustainableenergy.txt=1}
+ experts: {sustainableenergy.txt=1}
+ exploitation: {sustainableenergy.txt=2}
+ exploration: {sustainableenergy.txt=3}
+ exponentially: {sustainableenergy.txt=1}
+ extended: {sustainableenergy.txt=1}
+ extension: {sustainableenergy.txt=1}
+ extensive: {sustainableenergy.txt=1}
+ extent: {sustainableenergy.txt=2}
+ extract: {sustainableenergy.txt=1}
+ extracted: {sustainableenergy.txt=2}
+ extreme: {sustainableenergy.txt=1}
+ f24: {greenpower.txt=10}
+ f24+: {greenpower.txt=2}
+ faces: {sustainableenergy.txt=1}
+ facilitate: {greenpower.txt=1}
+ fact: {sustainableenergy.txt=2}
+ factory: {sustainableenergy.txt=1}
+ fall: {sustainableenergy.txt=1, greenpower.txt=1}
+ fallen: {sustainableenergy.txt=1}
+ far: {sustainableenergy.txt=2, greenpower.txt=1}
+ farm: {sustainableenergy.txt=20}
+ farming: {sustainableenergy.txt=2}
+ farmland: {sustainableenergy.txt=1}
+ farms: {sustainableenergy.txt=5}
+ fast: {sustainableenergy.txt=5, greenpower.txt=1}
+ feasibility: {sustainableenergy.txt=1}
+ feature: {greenpower.txt=1}
+ features: {sustainableenergy.txt=1}
+ february: {sustainableenergy.txt=5}
+ federal: {sustainableenergy.txt=3}
+ federally: {sustainableenergy.txt=1}
+ feed-in: {sustainableenergy.txt=1}
+ feedstock: {sustainableenergy.txt=2}
+ feet: {sustainableenergy.txt=1}
+ few: {sustainableenergy.txt=4, greenpower.txt=1}
+ fia's: {greenpower.txt=1}
+ fibers: {sustainableenergy.txt=2}
+ field: {sustainableenergy.txt=2}
+ figure: {sustainableenergy.txt=1}
+ final: {greenpower.txt=8}
+ finals: {greenpower.txt=2}
+ finals': {greenpower.txt=1}
+ finance: {sustainableenergy.txt=2}
+ financial: {sustainableenergy.txt=2}
+ financing: {sustainableenergy.txt=1}
+ fired: {sustainableenergy.txt=1}
+ first: {sustainableenergy.txt=9, greenpower.txt=3}
+ first-: {sustainableenergy.txt=1}
+ first-generation: {sustainableenergy.txt=2}
+ fischer–tropsch: {sustainableenergy.txt=1}
+ fission: {sustainableenergy.txt=1}
+ fissionable: {sustainableenergy.txt=1}
+ five: {sustainableenergy.txt=1, greenpower.txt=1}
+ flat: {sustainableenergy.txt=1}
+ fledgling: {sustainableenergy.txt=1}
+ fleet: {sustainableenergy.txt=1}
+ flexible-fuel: {sustainableenergy.txt=1}
+ flooding: {sustainableenergy.txt=1}
+ flow: {sustainableenergy.txt=2}
+ flowe: {sustainableenergy.txt=1}
+ flows: {sustainableenergy.txt=1}
+ flue: {sustainableenergy.txt=3}
+ flue-gas: {sustainableenergy.txt=2}
+ fluid: {sustainableenergy.txt=2}
+ flywheel: {sustainableenergy.txt=1}
+ focus: {sustainableenergy.txt=3}
+ focused: {sustainableenergy.txt=4}
+ focuses: {sustainableenergy.txt=2}
+ focusing: {sustainableenergy.txt=2}
+ followed: {sustainableenergy.txt=2, greenpower.txt=2}
+ following: {sustainableenergy.txt=1}
+ fontwell: {greenpower.txt=1}
+ food: {sustainableenergy.txt=4}
+ footprint: {sustainableenergy.txt=1}
+ for: {sustainableenergy.txt=84, greenpower.txt=17}
+ ford: {sustainableenergy.txt=1}
+ forecast: {sustainableenergy.txt=1}
+ foremost: {sustainableenergy.txt=1}
+ forest: {sustainableenergy.txt=2}
+ form: {sustainableenergy.txt=4}
+ formed: {sustainableenergy.txt=1}
+ former: {sustainableenergy.txt=2}
+ forms: {sustainableenergy.txt=3}
+ formula: {greenpower.txt=4}
+ fossil: {sustainableenergy.txt=12}
+ fossil-fuel: {sustainableenergy.txt=1}
+ found: {sustainableenergy.txt=2}
+ founded: {sustainableenergy.txt=1}
+ founder: {sustainableenergy.txt=1}
+ four: {sustainableenergy.txt=2, greenpower.txt=1}
+ fractional: {sustainableenergy.txt=1}
+ framco: {greenpower.txt=1}
+ francisco: {sustainableenergy.txt=1}
+ fraunhofer: {sustainableenergy.txt=1}
+ free: {sustainableenergy.txt=1, greenpower.txt=1}
+ frequent: {sustainableenergy.txt=1}
+ fresh: {sustainableenergy.txt=1}
+ from: {sustainableenergy.txt=79, greenpower.txt=14}
+ fuel: {sustainableenergy.txt=30}
+ fuels: {sustainableenergy.txt=18}
+ fulfills: {sustainableenergy.txt=1}
+ fully: {sustainableenergy.txt=1, greenpower.txt=2}
+ fund: {sustainableenergy.txt=2}
+ funded: {sustainableenergy.txt=2}
+ funding: {sustainableenergy.txt=3}
+ funds: {sustainableenergy.txt=1}
+ further: {sustainableenergy.txt=4}
+ fusion: {sustainableenergy.txt=3}
+ future: {sustainableenergy.txt=4}
+ g-20: {sustainableenergy.txt=1}
+ g-tron: {sustainableenergy.txt=1}
+ gabbard: {sustainableenergy.txt=1}
+ gains: {sustainableenergy.txt=1}
+ gansu: {sustainableenergy.txt=1}
+ garage: {sustainableenergy.txt=1}
+ gas: {sustainableenergy.txt=10}
+ gases: {sustainableenergy.txt=4}
+ gasification: {sustainableenergy.txt=1}
+ gasoline: {sustainableenergy.txt=5}
+ gates: {sustainableenergy.txt=1}
+ gear: {greenpower.txt=1}
+ general: {greenpower.txt=1}
+ generally: {sustainableenergy.txt=5}
+ generate: {sustainableenergy.txt=3}
+ generated: {sustainableenergy.txt=5}
+ generating: {sustainableenergy.txt=4}
+ generation: {sustainableenergy.txt=13}
+ generations: {sustainableenergy.txt=2}
+ generator: {sustainableenergy.txt=3}
+ genetics: {sustainableenergy.txt=1}
+ geographic: {sustainableenergy.txt=1}
+ george: {sustainableenergy.txt=2}
+ geosciences: {sustainableenergy.txt=1}
+ geothermal: {sustainableenergy.txt=26}
+ german: {sustainableenergy.txt=2}
+ germany: {sustainableenergy.txt=4}
+ get: {sustainableenergy.txt=1, greenpower.txt=1}
+ girassol: {sustainableenergy.txt=1}
+ give: {greenpower.txt=1}
+ given: {sustainableenergy.txt=4, greenpower.txt=1}
+ glass: {sustainableenergy.txt=1}
+ global: {sustainableenergy.txt=7}
+ globally: {sustainableenergy.txt=1}
+ gm: {sustainableenergy.txt=1}
+ go: {sustainableenergy.txt=1, greenpower.txt=1}
+ goal: {sustainableenergy.txt=3}
+ goblin: {greenpower.txt=3}
+ goes: {sustainableenergy.txt=1}
+ goods: {sustainableenergy.txt=1}
+ goodwood: {greenpower.txt=9}
+ gorilla: {sustainableenergy.txt=1}
+ government: {sustainableenergy.txt=3}
+ government's: {sustainableenergy.txt=1}
+ governments: {sustainableenergy.txt=3}
+ governor: {sustainableenergy.txt=1}
+ gradient: {sustainableenergy.txt=1}
+ grammar: {greenpower.txt=1}
+ granted: {sustainableenergy.txt=1}
+ grasses: {sustainableenergy.txt=1}
+ gravel: {sustainableenergy.txt=1}
+ greater: {sustainableenergy.txt=6}
+ greatest: {sustainableenergy.txt=2, greenpower.txt=3}
+ greatly: {sustainableenergy.txt=1}
+ green: {sustainableenergy.txt=47}
+ greenhouse: {sustainableenergy.txt=6}
+ greening: {sustainableenergy.txt=1}
+ greenpeace: {sustainableenergy.txt=1}
+ greenpeace's: {sustainableenergy.txt=1}
+ greenpower: {greenpower.txt=15}
+ grid: {sustainableenergy.txt=19}
+ grids: {sustainableenergy.txt=1}
+ grindavík: {sustainableenergy.txt=1}
+ ground: {sustainableenergy.txt=2}
+ ground-water: {sustainableenergy.txt=2}
+ group: {sustainableenergy.txt=3, greenpower.txt=3}
+ groups: {sustainableenergy.txt=1, greenpower.txt=1}
+ grow: {sustainableenergy.txt=1}
+ growing: {sustainableenergy.txt=2}
+ grown: {sustainableenergy.txt=2, greenpower.txt=1}
+ grows: {sustainableenergy.txt=1}
+ growth: {sustainableenergy.txt=11}
+ guarantee: {sustainableenergy.txt=2}
+ guidelines: {sustainableenergy.txt=1}
+ gw: {sustainableenergy.txt=2}
+ habitat: {sustainableenergy.txt=1}
+ had: {sustainableenergy.txt=4, greenpower.txt=1}
+ half: {sustainableenergy.txt=2, greenpower.txt=1}
+ hampshire: {sustainableenergy.txt=1}
+ hand: {greenpower.txt=2}
+ hardly: {sustainableenergy.txt=1}
+ harm: {sustainableenergy.txt=1}
+ harnessed: {sustainableenergy.txt=1}
+ harvest: {sustainableenergy.txt=1}
+ has: {sustainableenergy.txt=38, greenpower.txt=5}
+ have: {sustainableenergy.txt=41, greenpower.txt=3}
+ having: {sustainableenergy.txt=1, greenpower.txt=1}
+ headquarters: {greenpower.txt=1}
+ health: {sustainableenergy.txt=1}
+ heat: {sustainableenergy.txt=21}
+ heat-transfer: {sustainableenergy.txt=1}
+ heating: {sustainableenergy.txt=7}
+ heats: {greenpower.txt=1}
+ heavily: {sustainableenergy.txt=2}
+ heavy: {sustainableenergy.txt=1}
+ held: {greenpower.txt=7}
+ help: {sustainableenergy.txt=2, greenpower.txt=1}
+ helping: {sustainableenergy.txt=1, greenpower.txt=2}
+ hemp: {sustainableenergy.txt=1}
+ hfcvs: {sustainableenergy.txt=2}
+ high: {sustainableenergy.txt=8}
+ high-efficiency: {sustainableenergy.txt=1}
+ high-end: {sustainableenergy.txt=1}
+ high-power: {sustainableenergy.txt=1}
+ higher: {sustainableenergy.txt=4, greenpower.txt=1}
+ highest: {sustainableenergy.txt=4, greenpower.txt=1}
+ highly: {sustainableenergy.txt=1}
+ historical: {sustainableenergy.txt=1}
+ hits: {sustainableenergy.txt=2}
+ homes: {sustainableenergy.txt=4}
+ hoping: {greenpower.txt=1}
+ horizon: {sustainableenergy.txt=1}
+ horticultural: {sustainableenergy.txt=1}
+ horticulture: {sustainableenergy.txt=1}
+ hot: {sustainableenergy.txt=3}
+ hour: {greenpower.txt=1}
+ hours: {sustainableenergy.txt=4}
+ household: {sustainableenergy.txt=2}
+ households: {sustainableenergy.txt=1}
+ how: {greenpower.txt=2}
+ however: {sustainableenergy.txt=17, greenpower.txt=1}
+ huge: {greenpower.txt=1}
+ humanity: {sustainableenergy.txt=1}
+ hundred: {sustainableenergy.txt=1}
+ hundreds: {sustainableenergy.txt=1}
+ huntsville: {sustainableenergy.txt=1}
+ hvac: {sustainableenergy.txt=1}
+ hybrid: {sustainableenergy.txt=1}
+ hydro: {sustainableenergy.txt=1}
+ hydro-power: {sustainableenergy.txt=1}
+ hydroelectric: {sustainableenergy.txt=7}
+ hydroelectricity: {sustainableenergy.txt=3}
+ hydrogen: {sustainableenergy.txt=13}
+ hydrogenate: {sustainableenergy.txt=1}
+ hydrogenating: {sustainableenergy.txt=1}
+ hydrogenation: {sustainableenergy.txt=1}
+ hydropower: {sustainableenergy.txt=7}
+ hydrothermal: {sustainableenergy.txt=1}
+ ice: {sustainableenergy.txt=2}
+ iceland: {sustainableenergy.txt=3}
+ idea: {greenpower.txt=1}
+ ie: {sustainableenergy.txt=2}
+ iet: {greenpower.txt=3}
+ if: {sustainableenergy.txt=9, greenpower.txt=1}
+ igc: {sustainableenergy.txt=1}
+ illegally: {sustainableenergy.txt=1}
+ illustrative: {sustainableenergy.txt=1}
+ immediate: {sustainableenergy.txt=1}
+ impact: {sustainableenergy.txt=3}
+ impacts: {sustainableenergy.txt=2}
+ implementation: {sustainableenergy.txt=1}
+ implementing: {sustainableenergy.txt=1}
+ implements: {sustainableenergy.txt=1}
+ import: {sustainableenergy.txt=1}
+ imported: {sustainableenergy.txt=2}
+ impossible: {sustainableenergy.txt=1}
+ impractical: {sustainableenergy.txt=1}
+ improve: {sustainableenergy.txt=1}
+ improvement: {sustainableenergy.txt=2}
+ improvements: {sustainableenergy.txt=4}
+ improves: {sustainableenergy.txt=1}
+ improving: {sustainableenergy.txt=4}
+ in: {sustainableenergy.txt=209, greenpower.txt=28}
+ in-house: {sustainableenergy.txt=1}
+ inaccessible: {sustainableenergy.txt=1}
+ inaugural: {sustainableenergy.txt=1, greenpower.txt=1}
+ inc: {sustainableenergy.txt=1}
+ incentives: {sustainableenergy.txt=1}
+ incineration: {sustainableenergy.txt=1}
+ include: {sustainableenergy.txt=10, greenpower.txt=1}
+ include:: {sustainableenergy.txt=1}
+ included: {greenpower.txt=2}
+ included:: {greenpower.txt=1}
+ includes: {sustainableenergy.txt=4, greenpower.txt=2}
+ including: {sustainableenergy.txt=13, greenpower.txt=3}
+ inclusion: {sustainableenergy.txt=1}
+ incorporated: {sustainableenergy.txt=1, greenpower.txt=1}
+ incorporation: {sustainableenergy.txt=1}
+ increase: {sustainableenergy.txt=13}
+ increased: {sustainableenergy.txt=3}
+ increases: {sustainableenergy.txt=1}
+ increasing: {sustainableenergy.txt=5}
+ increasingly: {sustainableenergy.txt=4}
+ indefinite: {sustainableenergy.txt=1}
+ india: {sustainableenergy.txt=2}
+ indirectly: {sustainableenergy.txt=1}
+ individual: {sustainableenergy.txt=2, greenpower.txt=1}
+ individuals: {sustainableenergy.txt=1, greenpower.txt=1}
+ indonesia: {sustainableenergy.txt=1}
+ industrial: {sustainableenergy.txt=6}
+ industries: {sustainableenergy.txt=2}
+ industry: {sustainableenergy.txt=1, greenpower.txt=1}
+ inedible: {sustainableenergy.txt=1}
+ inefficiency: {sustainableenergy.txt=1}
+ inefficient: {sustainableenergy.txt=1}
+ information: {sustainableenergy.txt=1}
+ infrared: {sustainableenergy.txt=1}
+ infrastructure: {sustainableenergy.txt=3}
+ initial: {sustainableenergy.txt=2}
+ initially: {sustainableenergy.txt=1}
+ initiatives: {sustainableenergy.txt=1}
+ innovation: {sustainableenergy.txt=1, greenpower.txt=2}
+ innovations: {sustainableenergy.txt=1}
+ input: {sustainableenergy.txt=1}
+ inside: {sustainableenergy.txt=1}
+ inspire: {greenpower.txt=1}
+ install: {sustainableenergy.txt=1}
+ installation: {sustainableenergy.txt=2}
+ installations: {sustainableenergy.txt=1}
+ installed: {sustainableenergy.txt=3}
+ installing: {sustainableenergy.txt=1}
+ institute: {sustainableenergy.txt=5}
+ institutes: {greenpower.txt=1}
+ instructions: {greenpower.txt=1}
+ insufficient: {sustainableenergy.txt=1}
+ insulated: {sustainableenergy.txt=2}
+ integral: {sustainableenergy.txt=2}
+ integrate: {sustainableenergy.txt=1}
+ integrated: {sustainableenergy.txt=1}
+ intended: {sustainableenergy.txt=1}
+ interconnected: {sustainableenergy.txt=1}
+ interdisciplinary: {sustainableenergy.txt=1}
+ interest: {greenpower.txt=1}
+ interested: {sustainableenergy.txt=1}
+ interesting: {greenpower.txt=1}
+ intermittency: {sustainableenergy.txt=1}
+ intermittently: {sustainableenergy.txt=1}
+ internal: {sustainableenergy.txt=1}
+ international: {sustainableenergy.txt=5, greenpower.txt=3}
+ interseasonal: {sustainableenergy.txt=1}
+ into: {sustainableenergy.txt=15, greenpower.txt=4}
+ into:: {sustainableenergy.txt=1}
+ introduction: {sustainableenergy.txt=1}
+ invested: {sustainableenergy.txt=4}
+ investigation: {greenpower.txt=1}
+ investment: {sustainableenergy.txt=10}
+ investments: {sustainableenergy.txt=7}
+ investor: {sustainableenergy.txt=1}
+ investors: {sustainableenergy.txt=2}
+ involve: {sustainableenergy.txt=1, greenpower.txt=1}
+ involved: {sustainableenergy.txt=1}
+ involves: {sustainableenergy.txt=1}
+ involving: {sustainableenergy.txt=2}
+ ireland: {sustainableenergy.txt=1, greenpower.txt=1}
+ irregular: {sustainableenergy.txt=1}
+ is: {sustainableenergy.txt=140, greenpower.txt=28}
+ isotope: {sustainableenergy.txt=1}
+ israel: {sustainableenergy.txt=1}
+ issues: {sustainableenergy.txt=3}
+ it: {sustainableenergy.txt=42, greenpower.txt=5}
+ it's: {sustainableenergy.txt=1}
+ its: {sustainableenergy.txt=11, greenpower.txt=1}
+ james: {sustainableenergy.txt=1}
+ jatropha: {sustainableenergy.txt=6}
+ jbei: {sustainableenergy.txt=1}
+ jet: {sustainableenergy.txt=2}
+ join: {greenpower.txt=1}
+ joint: {sustainableenergy.txt=1}
+ journal: {sustainableenergy.txt=1}
+ journals: {sustainableenergy.txt=1}
+ june: {greenpower.txt=1}
+ keep: {sustainableenergy.txt=3}
+ key: {sustainableenergy.txt=1}
+ kilowatt: {sustainableenergy.txt=2}
+ kilowatt-hours: {sustainableenergy.txt=2}
+ kind: {sustainableenergy.txt=1}
+ kinds: {sustainableenergy.txt=1}
+ kingdom: {sustainableenergy.txt=2}
+ kit: {greenpower.txt=10}
+ kivu: {sustainableenergy.txt=1}
+ known: {sustainableenergy.txt=2, greenpower.txt=1}
+ kwh: {sustainableenergy.txt=1}
+ labelling: {sustainableenergy.txt=1}
+ laboratories: {sustainableenergy.txt=6}
+ laboratory: {sustainableenergy.txt=9}
+ laboratory’s: {sustainableenergy.txt=1}
+ labs: {sustainableenergy.txt=1}
+ lag: {sustainableenergy.txt=1}
+ lake: {sustainableenergy.txt=1}
+ land: {sustainableenergy.txt=1}
+ landing: {sustainableenergy.txt=1}
+ lap: {greenpower.txt=1}
+ laps: {greenpower.txt=1}
+ large: {sustainableenergy.txt=12, greenpower.txt=3}
+ large-scale: {sustainableenergy.txt=4}
+ largely: {sustainableenergy.txt=1}
+ largest: {sustainableenergy.txt=10}
+ last: {greenpower.txt=3}
+ lasted: {greenpower.txt=1}
+ late: {sustainableenergy.txt=2}
+ latent: {sustainableenergy.txt=2}
+ later: {sustainableenergy.txt=1}
+ latter: {sustainableenergy.txt=2}
+ launched: {sustainableenergy.txt=2}
+ laws: {sustainableenergy.txt=1}
+ lead: {sustainableenergy.txt=2}
+ leader: {sustainableenergy.txt=2}
+ leadership: {sustainableenergy.txt=4}
+ leading: {greenpower.txt=2}
+ leads: {sustainableenergy.txt=2}
+ leaf: {sustainableenergy.txt=2}
+ leak-proof: {greenpower.txt=1}
+ least: {sustainableenergy.txt=1, greenpower.txt=1}
+ led: {sustainableenergy.txt=2}
+ left: {greenpower.txt=1}
+ legislation: {sustainableenergy.txt=2}
+ less: {sustainableenergy.txt=7, greenpower.txt=1}
+ level: {sustainableenergy.txt=1, greenpower.txt=1}
+ levels: {sustainableenergy.txt=3, greenpower.txt=1}
+ leveraging: {sustainableenergy.txt=1}
+ life-cycle: {sustainableenergy.txt=1}
+ lift: {greenpower.txt=1}
+ light: {sustainableenergy.txt=6}
+ lignocellulosic: {sustainableenergy.txt=1}
+ likely: {sustainableenergy.txt=1}
+ limited: {sustainableenergy.txt=1}
+ limits: {sustainableenergy.txt=1}
+ lincs: {sustainableenergy.txt=1}
+ lined: {sustainableenergy.txt=1}
+ lines: {sustainableenergy.txt=1}
+ linked: {sustainableenergy.txt=1}
+ liquefied: {sustainableenergy.txt=1}
+ liquid-dominated: {sustainableenergy.txt=2}
+ liquids: {sustainableenergy.txt=1}
+ list: {greenpower.txt=1}
+ listed: {greenpower.txt=1}
+ liters: {sustainableenergy.txt=2}
+ lithium: {sustainableenergy.txt=1}
+ little: {sustainableenergy.txt=1}
+ living: {sustainableenergy.txt=4}
+ lng: {sustainableenergy.txt=2}
+ load: {sustainableenergy.txt=1}
+ local: {sustainableenergy.txt=5}
+ locales: {sustainableenergy.txt=2}
+ locally: {sustainableenergy.txt=2}
+ located: {sustainableenergy.txt=3}
+ location: {sustainableenergy.txt=1}
+ locations: {sustainableenergy.txt=2}
+ london: {sustainableenergy.txt=1}
+ long: {sustainableenergy.txt=2}
+ long-lived—many: {sustainableenergy.txt=1}
+ longer: {sustainableenergy.txt=2}
+ look: {greenpower.txt=1}
+ los: {sustainableenergy.txt=1}
+ loss: {sustainableenergy.txt=1}
+ losses: {sustainableenergy.txt=1}
+ lost: {sustainableenergy.txt=1}
+ lough: {sustainableenergy.txt=2}
+ lovelock: {sustainableenergy.txt=1}
+ low: {sustainableenergy.txt=4, greenpower.txt=1}
+ low-carbon: {sustainableenergy.txt=1}
+ low-impact: {sustainableenergy.txt=2}
+ lower: {sustainableenergy.txt=5}
+ lowest: {greenpower.txt=2}
+ lunar: {sustainableenergy.txt=1}
+ macarthur: {sustainableenergy.txt=1}
+ machines: {sustainableenergy.txt=3}
+ made: {sustainableenergy.txt=7}
+ main: {sustainableenergy.txt=4, greenpower.txt=3}
+ mainly: {sustainableenergy.txt=2}
+ mains: {sustainableenergy.txt=6}
+ mainstream: {sustainableenergy.txt=2}
+ major: {sustainableenergy.txt=2, greenpower.txt=1}
+ make: {sustainableenergy.txt=6}
+ makers: {sustainableenergy.txt=1}
+ making: {sustainableenergy.txt=4}
+ mallory: {greenpower.txt=1}
+ manufacturers: {sustainableenergy.txt=1}
+ manufacturing: {sustainableenergy.txt=1}
+ many: {sustainableenergy.txt=19, greenpower.txt=1}
+ margin: {greenpower.txt=1}
+ market: {sustainableenergy.txt=2}
+ marketing: {sustainableenergy.txt=1}
+ markets: {sustainableenergy.txt=6}
+ massachusetts: {sustainableenergy.txt=3}
+ matching: {sustainableenergy.txt=1}
+ material: {sustainableenergy.txt=2}
+ materials: {sustainableenergy.txt=5, greenpower.txt=1}
+ mathematics: {greenpower.txt=1}
+ matter: {sustainableenergy.txt=4}
+ maximum: {greenpower.txt=1}
+ may: {sustainableenergy.txt=15, greenpower.txt=1}
+ meaning: {greenpower.txt=2}
+ means: {sustainableenergy.txt=5}
+ mechanical: {sustainableenergy.txt=1}
+ mechanics: {sustainableenergy.txt=1}
+ medium: {sustainableenergy.txt=4}
+ meet: {sustainableenergy.txt=3}
+ megawatts: {sustainableenergy.txt=4}
+ megazord: {greenpower.txt=1}
+ member: {sustainableenergy.txt=2}
+ members: {sustainableenergy.txt=1}
+ merging: {sustainableenergy.txt=1}
+ methane: {sustainableenergy.txt=5}
+ methanol: {sustainableenergy.txt=2}
+ method: {sustainableenergy.txt=1}
+ methods: {sustainableenergy.txt=2}
+ metric: {sustainableenergy.txt=1}
+ michael: {sustainableenergy.txt=1}
+ microwaves: {sustainableenergy.txt=2}
+ mid-2006: {sustainableenergy.txt=1}
+ middle: {greenpower.txt=1}
+ might: {sustainableenergy.txt=1}
+ mike: {sustainableenergy.txt=1}
+ miles: {sustainableenergy.txt=1}
+ million: {sustainableenergy.txt=11}
+ minimal: {sustainableenergy.txt=1}
+ minimize: {sustainableenergy.txt=1}
+ minimum: {greenpower.txt=3}
+ minister: {sustainableenergy.txt=1}
+ minivans: {sustainableenergy.txt=1}
+ minute: {greenpower.txt=2}
+ minutes: {greenpower.txt=6}
+ miscanthus: {sustainableenergy.txt=1}
+ mit: {sustainableenergy.txt=2}
+ mitigate: {sustainableenergy.txt=1}
+ mitigating: {sustainableenergy.txt=1}
+ mix: {sustainableenergy.txt=1}
+ mixed-fuel: {sustainableenergy.txt=1}
+ model: {sustainableenergy.txt=1}
+ modern: {sustainableenergy.txt=1}
+ modified: {greenpower.txt=2}
+ modules: {sustainableenergy.txt=1}
+ molecular: {sustainableenergy.txt=1}
+ molecules: {sustainableenergy.txt=1}
+ moment: {sustainableenergy.txt=2}
+ moments: {sustainableenergy.txt=1}
+ monbiot: {sustainableenergy.txt=1}
+ money: {sustainableenergy.txt=3}
+ moon: {sustainableenergy.txt=1}
+ moore: {sustainableenergy.txt=1}
+ more: {sustainableenergy.txt=21, greenpower.txt=1}
+ moreover: {sustainableenergy.txt=1}
+ most: {sustainableenergy.txt=16, greenpower.txt=3}
+ mostly: {sustainableenergy.txt=1}
+ motor: {sustainableenergy.txt=2, greenpower.txt=10}
+ motors: {sustainableenergy.txt=1}
+ mountain: {sustainableenergy.txt=2}
+ move: {sustainableenergy.txt=2}
+ moving: {sustainableenergy.txt=1}
+ mrt35: {greenpower.txt=1}
+ much: {sustainableenergy.txt=9, greenpower.txt=1}
+ multiple: {sustainableenergy.txt=1, greenpower.txt=1}
+ municipal: {sustainableenergy.txt=3}
+ museum: {sustainableenergy.txt=1}
+ must: {sustainableenergy.txt=4, greenpower.txt=1}
+ mw: {sustainableenergy.txt=24}
+ name: {greenpower.txt=1}
+ nanosolar: {sustainableenergy.txt=1}
+ nanotechnology: {sustainableenergy.txt=2}
+ nanotechnology-based: {sustainableenergy.txt=1}
+ narrows: {sustainableenergy.txt=1}
+ nasa: {sustainableenergy.txt=2}
+ nation's: {sustainableenergy.txt=1}
+ national: {sustainableenergy.txt=17, greenpower.txt=4}
+ nations: {sustainableenergy.txt=3}
+ natural: {sustainableenergy.txt=10}
+ nature: {sustainableenergy.txt=1}
+ near: {sustainableenergy.txt=1}
+ nearby: {greenpower.txt=1}
+ nearly: {sustainableenergy.txt=3, greenpower.txt=1}
+ necessarily: {sustainableenergy.txt=1, greenpower.txt=1}
+ necessary: {sustainableenergy.txt=3, greenpower.txt=1}
+ need: {sustainableenergy.txt=1}
+ needed: {sustainableenergy.txt=3}
+ needs: {sustainableenergy.txt=3, greenpower.txt=1}
+ negative: {sustainableenergy.txt=4, greenpower.txt=1}
+ neither: {sustainableenergy.txt=1}
+ nellis: {sustainableenergy.txt=1}
+ net: {sustainableenergy.txt=5}
+ netherlands: {sustainableenergy.txt=1}
+ network: {sustainableenergy.txt=2}
+ networks: {sustainableenergy.txt=1}
+ nevada: {sustainableenergy.txt=1}
+ new: {sustainableenergy.txt=8, greenpower.txt=2}
+ newenergy: {sustainableenergy.txt=1}
+ newer: {sustainableenergy.txt=2}
+ newest: {sustainableenergy.txt=1}
+ next: {sustainableenergy.txt=4, greenpower.txt=1}
+ ngos: {sustainableenergy.txt=1}
+ niche: {sustainableenergy.txt=1}
+ night: {sustainableenergy.txt=3}
+ nighttime: {sustainableenergy.txt=3}
+ nitrous: {sustainableenergy.txt=1}
+ nmi: {sustainableenergy.txt=1}
+ no: {sustainableenergy.txt=6, greenpower.txt=1}
+ non-edible: {sustainableenergy.txt=1}
+ non-exhaustible: {sustainableenergy.txt=1}
+ non-green: {sustainableenergy.txt=1}
+ non-profit: {sustainableenergy.txt=1}
+ nor: {sustainableenergy.txt=1}
+ normally: {greenpower.txt=1}
+ north: {sustainableenergy.txt=5}
+ not: {sustainableenergy.txt=28, greenpower.txt=1}
+ notably: {sustainableenergy.txt=1}
+ now: {sustainableenergy.txt=7, greenpower.txt=1}
+ nox: {sustainableenergy.txt=1}
+ nrel: {sustainableenergy.txt=6}
+ nuclear: {sustainableenergy.txt=26}
+ number: {sustainableenergy.txt=1, greenpower.txt=3}
+ numbers: {greenpower.txt=1}
+ numerous: {sustainableenergy.txt=2}
+ objective: {greenpower.txt=1}
+ obligate: {sustainableenergy.txt=1}
+ obstacle: {sustainableenergy.txt=2}
+ obtained: {sustainableenergy.txt=3}
+ ocean: {sustainableenergy.txt=6}
+ october: {greenpower.txt=2}
+ of: {sustainableenergy.txt=300, greenpower.txt=45}
+ offer: {sustainableenergy.txt=6}
+ offered: {greenpower.txt=1}
+ offering: {sustainableenergy.txt=1}
+ offers: {sustainableenergy.txt=1}
+ offices: {sustainableenergy.txt=1}
+ offset: {sustainableenergy.txt=2}
+ offshore: {sustainableenergy.txt=3}
+ ofgem: {sustainableenergy.txt=1}
+ often: {sustainableenergy.txt=5}
+ oil: {sustainableenergy.txt=12}
+ oil-rich: {sustainableenergy.txt=1}
+ olah: {sustainableenergy.txt=1}
+ old: {sustainableenergy.txt=1}
+ older: {greenpower.txt=1}
+ on: {sustainableenergy.txt=43, greenpower.txt=7}
+ once: {sustainableenergy.txt=1}
+ one: {sustainableenergy.txt=10, greenpower.txt=6}
+ one-quarter: {sustainableenergy.txt=1}
+ ones: {sustainableenergy.txt=2}
+ online: {sustainableenergy.txt=1}
+ only: {sustainableenergy.txt=15, greenpower.txt=7}
+ onshore: {sustainableenergy.txt=2}
+ open: {greenpower.txt=1}
+ open-cockpit: {greenpower.txt=1}
+ open-ended: {greenpower.txt=1}
+ opened: {sustainableenergy.txt=1}
+ operate: {sustainableenergy.txt=1}
+ operated: {sustainableenergy.txt=2}
+ operating: {sustainableenergy.txt=2}
+ operation: {sustainableenergy.txt=1}
+ operational: {sustainableenergy.txt=1}
+ opponents: {sustainableenergy.txt=1}
+ opportunities: {sustainableenergy.txt=2}
+ opportunity: {sustainableenergy.txt=1}
+ opposed: {greenpower.txt=1}
+ opposing: {sustainableenergy.txt=1}
+ optimized: {sustainableenergy.txt=1}
+ option: {sustainableenergy.txt=4}
+ options: {sustainableenergy.txt=3}
+ or: {sustainableenergy.txt=70, greenpower.txt=2}
+ order: {sustainableenergy.txt=1}
+ organisation: {sustainableenergy.txt=1, greenpower.txt=1}
+ organised: {sustainableenergy.txt=1}
+ organisms: {sustainableenergy.txt=1}
+ organization: {sustainableenergy.txt=2}
+ organizational: {sustainableenergy.txt=1}
+ organizations: {sustainableenergy.txt=5, greenpower.txt=1}
+ organized: {greenpower.txt=1}
+ organizing: {sustainableenergy.txt=1}
+ origin: {sustainableenergy.txt=1}
+ originated: {greenpower.txt=1}
+ osmotic: {sustainableenergy.txt=1}
+ other: {sustainableenergy.txt=25, greenpower.txt=1}
+ others: {sustainableenergy.txt=1}
+ otherwise: {sustainableenergy.txt=2}
+ our: {sustainableenergy.txt=1}
+ out: {sustainableenergy.txt=4}
+ outpaced: {sustainableenergy.txt=1}
+ outs: {sustainableenergy.txt=2}
+ outside: {sustainableenergy.txt=1}
+ over: {sustainableenergy.txt=15, greenpower.txt=3}
+ overall: {sustainableenergy.txt=6, greenpower.txt=1}
+ overcoming: {sustainableenergy.txt=1}
+ overnight: {sustainableenergy.txt=2}
+ overtaxed: {sustainableenergy.txt=1}
+ own: {sustainableenergy.txt=2, greenpower.txt=2}
+ owner: {sustainableenergy.txt=1, greenpower.txt=1}
+ oxides: {sustainableenergy.txt=2}
+ oxygen: {sustainableenergy.txt=3}
+ p-750: {sustainableenergy.txt=1}
+ pace: {sustainableenergy.txt=2}
+ pacific: {sustainableenergy.txt=1}
+ packages: {sustainableenergy.txt=1}
+ paid: {sustainableenergy.txt=1}
+ pair: {greenpower.txt=4}
+ pairs: {greenpower.txt=1}
+ palm: {sustainableenergy.txt=2}
+ panel: {sustainableenergy.txt=1}
+ panels: {sustainableenergy.txt=7}
+ papers: {sustainableenergy.txt=2}
+ parabolic: {sustainableenergy.txt=1}
+ park: {sustainableenergy.txt=4, greenpower.txt=1}
+ parliament: {sustainableenergy.txt=2}
+ part: {sustainableenergy.txt=4}
+ participate: {greenpower.txt=1}
+ participating: {sustainableenergy.txt=1}
+ participation: {greenpower.txt=1}
+ particular: {sustainableenergy.txt=1}
+ particularly: {sustainableenergy.txt=2}
+ particulate: {sustainableenergy.txt=1}
+ partners: {sustainableenergy.txt=1, greenpower.txt=1}
+ partnership: {sustainableenergy.txt=2, greenpower.txt=1}
+ parts: {sustainableenergy.txt=1, greenpower.txt=1}
+ party: {sustainableenergy.txt=1}
+ passed: {sustainableenergy.txt=1}
+ patented: {sustainableenergy.txt=1}
+ patrick: {sustainableenergy.txt=1}
+ patron: {greenpower.txt=1}
+ patrons: {greenpower.txt=1}
+ pavilion: {sustainableenergy.txt=1}
+ pay: {sustainableenergy.txt=1}
+ pcms: {sustainableenergy.txt=1}
+ peak: {sustainableenergy.txt=1}
+ peak-shaving: {sustainableenergy.txt=1}
+ peaks: {sustainableenergy.txt=1}
+ pelamis: {sustainableenergy.txt=2}
+ people: {sustainableenergy.txt=5, greenpower.txt=4}
+ per: {sustainableenergy.txt=9, greenpower.txt=5}
+ per-capita: {sustainableenergy.txt=1}
+ percent: {sustainableenergy.txt=8}
+ percentage: {sustainableenergy.txt=3}
+ performance: {sustainableenergy.txt=1}
+ periods: {sustainableenergy.txt=1}
+ person: {sustainableenergy.txt=1}
+ personal: {greenpower.txt=1}
+ petroleum: {sustainableenergy.txt=2}
+ petroleum-fueled: {sustainableenergy.txt=1}
+ phase: {sustainableenergy.txt=2}
+ phase-change: {sustainableenergy.txt=1}
+ phil: {sustainableenergy.txt=1}
+ philippines: {sustainableenergy.txt=1}
+ photosynthesis: {sustainableenergy.txt=4}
+ photovoltaic: {sustainableenergy.txt=9}
+ photovoltaics: {sustainableenergy.txt=2}
+ physical: {sustainableenergy.txt=1}
+ picture: {sustainableenergy.txt=1}
+ pillars: {sustainableenergy.txt=2}
+ pipe: {sustainableenergy.txt=2}
+ pipeline: {sustainableenergy.txt=1}
+ pipelines: {sustainableenergy.txt=1}
+ pit: {greenpower.txt=1}
+ pits: {sustainableenergy.txt=1}
+ place: {sustainableenergy.txt=1, greenpower.txt=2}
+ place:: {greenpower.txt=1}
+ planet: {sustainableenergy.txt=3}
+ planned: {sustainableenergy.txt=2}
+ plant: {sustainableenergy.txt=19}
+ plant-derived: {sustainableenergy.txt=1}
+ plants: {sustainableenergy.txt=38}
+ platform: {greenpower.txt=1}
+ play: {sustainableenergy.txt=2}
+ plus: {greenpower.txt=1}
+ plutonium: {sustainableenergy.txt=1}
+ pm: {sustainableenergy.txt=1}
+ point: {sustainableenergy.txt=3, greenpower.txt=2}
+ points: {greenpower.txt=5}
+ poised: {sustainableenergy.txt=1}
+ poisonous: {sustainableenergy.txt=1}
+ poland: {greenpower.txt=1}
+ policies: {sustainableenergy.txt=4}
+ policy: {sustainableenergy.txt=2}
+ politically: {sustainableenergy.txt=1}
+ politics: {sustainableenergy.txt=1}
+ pollutants: {sustainableenergy.txt=1}
+ polluting: {sustainableenergy.txt=2}
+ pollution: {sustainableenergy.txt=6}
+ ponds: {sustainableenergy.txt=1}
+ pool: {sustainableenergy.txt=4}
+ pools: {sustainableenergy.txt=1}
+ poplar: {sustainableenergy.txt=1}
+ popular: {sustainableenergy.txt=1}
+ population: {sustainableenergy.txt=2}
+ portugal: {sustainableenergy.txt=1}
+ pose: {sustainableenergy.txt=3}
+ position: {sustainableenergy.txt=1, greenpower.txt=1}
+ possibility: {sustainableenergy.txt=1}
+ possible: {sustainableenergy.txt=6}
+ potassium: {sustainableenergy.txt=1}
+ potential: {sustainableenergy.txt=10}
+ potentially: {sustainableenergy.txt=2}
+ pounds: {sustainableenergy.txt=1}
+ poverty: {sustainableenergy.txt=1}
+ power: {sustainableenergy.txt=132}
+ power': {sustainableenergy.txt=1}
+ powered: {sustainableenergy.txt=1, greenpower.txt=1}
+ powerful: {sustainableenergy.txt=1}
+ powerplants: {sustainableenergy.txt=1}
+ practical: {sustainableenergy.txt=2}
+ practices: {sustainableenergy.txt=2}
+ predict: {sustainableenergy.txt=1}
+ premature: {sustainableenergy.txt=1}
+ premier: {sustainableenergy.txt=1}
+ premium: {sustainableenergy.txt=1}
+ present: {sustainableenergy.txt=2}
+ presentation: {greenpower.txt=1}
+ presented: {greenpower.txt=1}
+ presenting: {greenpower.txt=1}
+ president: {sustainableenergy.txt=1}
+ preventing: {sustainableenergy.txt=1}
+ previous: {sustainableenergy.txt=3}
+ previously: {sustainableenergy.txt=2}
+ price: {sustainableenergy.txt=2, greenpower.txt=1}
+ prices: {sustainableenergy.txt=1, greenpower.txt=1}
+ primarily: {sustainableenergy.txt=1}
+ primary: {sustainableenergy.txt=2, greenpower.txt=2}
+ principle: {sustainableenergy.txt=1}
+ private: {sustainableenergy.txt=1, greenpower.txt=1}
+ probably: {sustainableenergy.txt=1}
+ problem: {sustainableenergy.txt=1}
+ problems: {sustainableenergy.txt=5, greenpower.txt=1}
+ procedure: {sustainableenergy.txt=1}
+ process: {sustainableenergy.txt=4}
+ processed: {sustainableenergy.txt=2}
+ processes: {sustainableenergy.txt=3}
+ processing: {sustainableenergy.txt=1}
+ procurement: {sustainableenergy.txt=1}
+ produce: {sustainableenergy.txt=19}
+ produced: {sustainableenergy.txt=18}
+ producers: {sustainableenergy.txt=1}
+ produces: {sustainableenergy.txt=3}
+ producing: {sustainableenergy.txt=5}
+ product: {sustainableenergy.txt=1}
+ production: {sustainableenergy.txt=22}
+ products: {sustainableenergy.txt=1}
+ professionally: {greenpower.txt=1}
+ profile: {sustainableenergy.txt=1}
+ profit: {sustainableenergy.txt=1}
+ program: {sustainableenergy.txt=4}
+ programme: {sustainableenergy.txt=1}
+ programs: {sustainableenergy.txt=5}
+ progress: {sustainableenergy.txt=1}
+ prohibit: {sustainableenergy.txt=1}
+ project: {sustainableenergy.txt=3, greenpower.txt=1}
+ projected: {sustainableenergy.txt=3}
+ projects: {sustainableenergy.txt=9}
+ proliferation: {sustainableenergy.txt=1}
+ prominent: {sustainableenergy.txt=2}
+ promising: {sustainableenergy.txt=1}
+ promote: {sustainableenergy.txt=2}
+ promoted: {sustainableenergy.txt=1}
+ promoting: {sustainableenergy.txt=1}
+ promotion: {sustainableenergy.txt=1}
+ prompted: {sustainableenergy.txt=1}
+ properties: {sustainableenergy.txt=1}
+ property: {sustainableenergy.txt=1}
+ proposal: {sustainableenergy.txt=2}
+ proposed: {sustainableenergy.txt=3}
+ protection: {sustainableenergy.txt=4}
+ prototype: {sustainableenergy.txt=1}
+ proven: {sustainableenergy.txt=1}
+ provide: {sustainableenergy.txt=9}
+ provided: {sustainableenergy.txt=3}
+ provider: {sustainableenergy.txt=3}
+ provides: {sustainableenergy.txt=2}
+ providing: {sustainableenergy.txt=3, greenpower.txt=1}
+ provinces: {sustainableenergy.txt=1}
+ provision: {sustainableenergy.txt=1}
+ psed: {greenpower.txt=1}
+ public: {sustainableenergy.txt=2, greenpower.txt=2}
+ published: {greenpower.txt=1}
+ publishing: {sustainableenergy.txt=1}
+ pulling: {sustainableenergy.txt=1}
+ pump: {sustainableenergy.txt=2}
+ pumped-storage: {sustainableenergy.txt=1}
+ pumps: {sustainableenergy.txt=2}
+ purchase: {sustainableenergy.txt=7}
+ purchased: {sustainableenergy.txt=1, greenpower.txt=1}
+ purchasing: {sustainableenergy.txt=3}
+ pure: {sustainableenergy.txt=1}
+ purpose: {sustainableenergy.txt=1}
+ purposes: {sustainableenergy.txt=2}
+ pursued: {sustainableenergy.txt=1}
+ pursuing: {sustainableenergy.txt=2}
+ put: {sustainableenergy.txt=1}
+ pv: {sustainableenergy.txt=4}
+ qualification: {greenpower.txt=1}
+ quality: {sustainableenergy.txt=2}
+ quickly: {sustainableenergy.txt=1}
+ race: {greenpower.txt=27}
+ races: {greenpower.txt=9}
+ racing: {greenpower.txt=5}
+ radford: {sustainableenergy.txt=1}
+ radiation: {sustainableenergy.txt=4}
+ radio: {sustainableenergy.txt=1}
+ radioactive: {sustainableenergy.txt=3}
+ raised: {sustainableenergy.txt=1}
+ range: {greenpower.txt=2}
+ ranged: {greenpower.txt=1}
+ ranges: {sustainableenergy.txt=1}
+ ranging: {sustainableenergy.txt=4}
+ ranked: {sustainableenergy.txt=2}
+ ranks: {greenpower.txt=1}
+ rann: {sustainableenergy.txt=3}
+ rapid: {sustainableenergy.txt=1}
+ rapidly: {sustainableenergy.txt=1}
+ rate: {sustainableenergy.txt=4}
+ rates: {sustainableenergy.txt=1}
+ rd&d: {sustainableenergy.txt=2}
+ reached: {sustainableenergy.txt=1}
+ reaches: {sustainableenergy.txt=1}
+ reaching: {sustainableenergy.txt=2}
+ reaction: {sustainableenergy.txt=2}
+ reactor: {sustainableenergy.txt=3}
+ reactors: {sustainableenergy.txt=1}
+ realised: {sustainableenergy.txt=1}
+ realistic: {sustainableenergy.txt=1}
+ reasonably: {greenpower.txt=1}
+ reasons: {sustainableenergy.txt=1}
+ receding: {sustainableenergy.txt=1}
+ receive: {sustainableenergy.txt=1}
+ received: {sustainableenergy.txt=2}
+ receivers: {sustainableenergy.txt=1}
+ recent: {sustainableenergy.txt=6}
+ recently: {sustainableenergy.txt=3}
+ receptive: {sustainableenergy.txt=1}
+ recognised: {sustainableenergy.txt=1}
+ recognizes: {sustainableenergy.txt=1}
+ record: {sustainableenergy.txt=1}
+ recorded: {greenpower.txt=1}
+ recover: {sustainableenergy.txt=1}
+ recovered: {sustainableenergy.txt=2}
+ recs: {sustainableenergy.txt=2}
+ recycled: {sustainableenergy.txt=2}
+ recycling: {sustainableenergy.txt=2}
+ reduce: {sustainableenergy.txt=7, greenpower.txt=2}
+ reduced: {sustainableenergy.txt=2}
+ reduces: {sustainableenergy.txt=1}
+ reducing: {sustainableenergy.txt=5, greenpower.txt=1}
+ reduction: {sustainableenergy.txt=1, greenpower.txt=1}
+ reductions: {sustainableenergy.txt=1}
+ referred: {sustainableenergy.txt=1}
+ refers: {sustainableenergy.txt=2}
+ reflect: {sustainableenergy.txt=1}
+ regarded: {greenpower.txt=1}
+ regarding: {sustainableenergy.txt=2}
+ region: {greenpower.txt=1}
+ regional: {sustainableenergy.txt=2}
+ regions: {sustainableenergy.txt=3}
+ registration: {greenpower.txt=1}
+ regulated: {sustainableenergy.txt=1}
+ regulations: {greenpower.txt=2}
+ regulator: {sustainableenergy.txt=1}
+ related: {sustainableenergy.txt=3}
+ relating: {greenpower.txt=1}
+ relatively: {sustainableenergy.txt=3, greenpower.txt=1}
+ release: {sustainableenergy.txt=1}
+ relevant: {greenpower.txt=1}
+ remainder: {sustainableenergy.txt=1}
+ remains: {sustainableenergy.txt=2}
+ remediation: {sustainableenergy.txt=2}
+ remote: {sustainableenergy.txt=3}
+ remote-area: {sustainableenergy.txt=1}
+ removal: {sustainableenergy.txt=2}
+ renewable: {sustainableenergy.txt=66}
+ renewables: {sustainableenergy.txt=5}
+ replacement: {sustainableenergy.txt=1}
+ replacing: {sustainableenergy.txt=2}
+ replenished: {sustainableenergy.txt=1}
+ report: {sustainableenergy.txt=1}
+ represent: {sustainableenergy.txt=1}
+ representing: {sustainableenergy.txt=2}
+ represents: {sustainableenergy.txt=1}
+ reprocessed: {sustainableenergy.txt=1}
+ reprocessing: {sustainableenergy.txt=1}
+ republic: {sustainableenergy.txt=1}
+ require: {sustainableenergy.txt=4}
+ required: {sustainableenergy.txt=2, greenpower.txt=4}
+ requirements: {sustainableenergy.txt=1, greenpower.txt=1}
+ requires: {sustainableenergy.txt=2}
+ requiring: {sustainableenergy.txt=1}
+ research: {sustainableenergy.txt=33}
+ researchers: {sustainableenergy.txt=2}
+ reservoir: {sustainableenergy.txt=4}
+ reservoirs: {sustainableenergy.txt=2}
+ residential: {sustainableenergy.txt=1}
+ residues: {sustainableenergy.txt=2}
+ resistance: {sustainableenergy.txt=1}
+ resource: {sustainableenergy.txt=4}
+ resources: {sustainableenergy.txt=13}
+ restlyed: {greenpower.txt=1}
+ result: {sustainableenergy.txt=8, greenpower.txt=1}
+ results: {greenpower.txt=2}
+ resurgence: {sustainableenergy.txt=1}
+ retail: {sustainableenergy.txt=2}
+ retailing: {sustainableenergy.txt=1}
+ reused: {greenpower.txt=1}
+ revealed: {sustainableenergy.txt=1, greenpower.txt=1}
+ revenue: {sustainableenergy.txt=1}
+ review: {sustainableenergy.txt=1}
+ revolution: {sustainableenergy.txt=1}
+ rice: {sustainableenergy.txt=1}
+ rich: {sustainableenergy.txt=1}
+ rights: {sustainableenergy.txt=1}
+ rise: {sustainableenergy.txt=1}
+ rising: {sustainableenergy.txt=3}
+ risk: {sustainableenergy.txt=2}
+ risks: {sustainableenergy.txt=1}
+ river: {sustainableenergy.txt=1}
+ rm: {sustainableenergy.txt=1}
+ road: {sustainableenergy.txt=1}
+ roads: {sustainableenergy.txt=1}
+ rock: {sustainableenergy.txt=1}
+ rockingham: {greenpower.txt=1}
+ rocky: {sustainableenergy.txt=1}
+ role: {sustainableenergy.txt=2}
+ roofs: {sustainableenergy.txt=2}
+ room: {greenpower.txt=1}
+ rope: {sustainableenergy.txt=1}
+ ropes: {sustainableenergy.txt=2}
+ rotors: {sustainableenergy.txt=1}
+ roughly: {sustainableenergy.txt=1}
+ rules: {greenpower.txt=5}
+ run: {sustainableenergy.txt=2, greenpower.txt=3}
+ run-of-the-river: {sustainableenergy.txt=1}
+ running: {greenpower.txt=1}
+ s: {sustainableenergy.txt=1}
+ sabatier: {sustainableenergy.txt=1}
+ safety: {sustainableenergy.txt=1, greenpower.txt=1}
+ safety-based: {greenpower.txt=1}
+ sahara: {sustainableenergy.txt=2}
+ said: {sustainableenergy.txt=3}
+ sales: {sustainableenergy.txt=2}
+ same: {sustainableenergy.txt=2, greenpower.txt=1}
+ san: {sustainableenergy.txt=2}
+ sandia: {sustainableenergy.txt=6}
+ sandia’s: {sustainableenergy.txt=2}
+ satellites: {sustainableenergy.txt=1}
+ satisfied: {sustainableenergy.txt=1}
+ save: {sustainableenergy.txt=1}
+ say: {sustainableenergy.txt=1}
+ scale: {sustainableenergy.txt=3}
+ scaling: {sustainableenergy.txt=2}
+ scheduled: {sustainableenergy.txt=1}
+ scheme: {sustainableenergy.txt=1}
+ schemes: {sustainableenergy.txt=1}
+ school: {greenpower.txt=3}
+ schools: {sustainableenergy.txt=1, greenpower.txt=4}
+ schwarzenegger: {sustainableenergy.txt=1}
+ science: {sustainableenergy.txt=6, greenpower.txt=1}
+ scientific: {sustainableenergy.txt=2}
+ scientifically: {sustainableenergy.txt=1}
+ score: {greenpower.txt=2}
+ scotland: {sustainableenergy.txt=2}
+ scottish: {sustainableenergy.txt=1}
+ sealed: {greenpower.txt=1}
+ season: {greenpower.txt=7}
+ seasonally: {sustainableenergy.txt=1}
+ seasons: {sustainableenergy.txt=2}
+ seawater: {sustainableenergy.txt=5}
+ second: {sustainableenergy.txt=2}
+ second-generation: {sustainableenergy.txt=5}
+ secondary: {greenpower.txt=1}
+ sector: {sustainableenergy.txt=1}
+ sectors: {sustainableenergy.txt=4}
+ secured: {sustainableenergy.txt=1}
+ security: {sustainableenergy.txt=3}
+ see: {sustainableenergy.txt=2}
+ see:: {sustainableenergy.txt=1}
+ seeds: {sustainableenergy.txt=2}
+ seen: {sustainableenergy.txt=1}
+ sees: {greenpower.txt=1}
+ selected: {sustainableenergy.txt=1, greenpower.txt=1}
+ self-published: {sustainableenergy.txt=1}
+ self-sufficiency: {sustainableenergy.txt=1}
+ sell: {sustainableenergy.txt=2}
+ semprius: {sustainableenergy.txt=1}
+ sense: {sustainableenergy.txt=2}
+ sensible: {sustainableenergy.txt=2}
+ sensors: {sustainableenergy.txt=1}
+ separately: {greenpower.txt=1}
+ serc: {sustainableenergy.txt=1}
+ series: {greenpower.txt=1}
+ serious: {sustainableenergy.txt=1}
+ serve: {sustainableenergy.txt=1}
+ serves: {sustainableenergy.txt=1}
+ services: {sustainableenergy.txt=1}
+ set: {sustainableenergy.txt=1}
+ set-up: {sustainableenergy.txt=1}
+ sets: {sustainableenergy.txt=3}
+ setting: {sustainableenergy.txt=1}
+ setting-up: {sustainableenergy.txt=1}
+ several: {sustainableenergy.txt=13}
+ severe: {sustainableenergy.txt=1}
+ sg: {sustainableenergy.txt=1}
+ shaft: {sustainableenergy.txt=1}
+ shallow: {sustainableenergy.txt=2}
+ share: {sustainableenergy.txt=2}
+ sharply: {sustainableenergy.txt=1}
+ shepherds: {sustainableenergy.txt=1}
+ sheringham: {sustainableenergy.txt=1}
+ shift: {sustainableenergy.txt=1}
+ shines: {sustainableenergy.txt=1}
+ shining: {sustainableenergy.txt=1}
+ ship: {sustainableenergy.txt=1}
+ shipped: {sustainableenergy.txt=1}
+ shoal: {sustainableenergy.txt=1}
+ short: {greenpower.txt=1}
+ short-term: {sustainableenergy.txt=2}
+ shortened: {greenpower.txt=1}
+ should: {sustainableenergy.txt=2, greenpower.txt=1}
+ show: {sustainableenergy.txt=1}
+ showgrounds: {sustainableenergy.txt=1}
+ shown: {sustainableenergy.txt=1}
+ shrub-like: {sustainableenergy.txt=1}
+ side: {sustainableenergy.txt=4}
+ siemens: {sustainableenergy.txt=1}
+ significant: {sustainableenergy.txt=10}
+ significantly: {greenpower.txt=1}
+ silesian: {greenpower.txt=1}
+ silicon: {sustainableenergy.txt=2}
+ silverstone: {greenpower.txt=1}
+ similar: {sustainableenergy.txt=3, greenpower.txt=1}
+ simple: {sustainableenergy.txt=1}
+ simplified: {greenpower.txt=1}
+ simultaneously: {sustainableenergy.txt=1}
+ since: {sustainableenergy.txt=4, greenpower.txt=2}
+ site: {sustainableenergy.txt=1}
+ sites: {sustainableenergy.txt=1}
+ six: {sustainableenergy.txt=3, greenpower.txt=3}
+ size: {sustainableenergy.txt=2}
+ sky: {sustainableenergy.txt=1}
+ slalom: {greenpower.txt=2}
+ slightly: {sustainableenergy.txt=1, greenpower.txt=1}
+ slow: {sustainableenergy.txt=1}
+ slowing: {sustainableenergy.txt=2}
+ slowly: {sustainableenergy.txt=1}
+ slows: {sustainableenergy.txt=1}
+ slush: {sustainableenergy.txt=1}
+ small: {sustainableenergy.txt=3, greenpower.txt=1}
+ small-hydro: {sustainableenergy.txt=1}
+ small-scale: {sustainableenergy.txt=1}
+ smaller: {greenpower.txt=1}
+ smart: {sustainableenergy.txt=1}
+ snake: {sustainableenergy.txt=1}
+ so: {sustainableenergy.txt=9}
+ so-called: {greenpower.txt=1}
+ social: {sustainableenergy.txt=1, greenpower.txt=1}
+ societies: {greenpower.txt=1}
+ society: {sustainableenergy.txt=1}
+ soil: {sustainableenergy.txt=2}
+ solar: {sustainableenergy.txt=59}
+ solar-thermal: {sustainableenergy.txt=1}
+ sold: {greenpower.txt=1}
+ sole: {sustainableenergy.txt=1}
+ solely: {sustainableenergy.txt=1}
+ solicit: {sustainableenergy.txt=1}
+ solid: {sustainableenergy.txt=2}
+ solution: {sustainableenergy.txt=3}
+ solutions: {sustainableenergy.txt=1}
+ solve: {greenpower.txt=1}
+ solving: {sustainableenergy.txt=1}
+ some: {sustainableenergy.txt=24, greenpower.txt=4}
+ sometimes: {sustainableenergy.txt=2}
+ soon: {sustainableenergy.txt=1}
+ sorghum: {sustainableenergy.txt=1}
+ source: {sustainableenergy.txt=8}
+ sources: {sustainableenergy.txt=21}
+ south: {sustainableenergy.txt=3}
+ southern: {greenpower.txt=1}
+ sox: {sustainableenergy.txt=1}
+ space: {sustainableenergy.txt=2, greenpower.txt=2}
+ spain: {sustainableenergy.txt=2}
+ spans: {sustainableenergy.txt=1}
+ speaking: {sustainableenergy.txt=1}
+ species: {sustainableenergy.txt=2}
+ specifically: {sustainableenergy.txt=2}
+ specifications: {greenpower.txt=1}
+ spectrum: {sustainableenergy.txt=1}
+ speed: {greenpower.txt=1}
+ speeds: {greenpower.txt=5}
+ spent: {sustainableenergy.txt=1}
+ spirit: {greenpower.txt=1}
+ split: {sustainableenergy.txt=1}
+ splitting: {sustainableenergy.txt=1}
+ sponsored: {greenpower.txt=1}
+ sportback: {sustainableenergy.txt=1}
+ sprint: {greenpower.txt=2}
+ square: {sustainableenergy.txt=1}
+ stabilize: {sustainableenergy.txt=1}
+ staff: {sustainableenergy.txt=1}
+ stahl: {sustainableenergy.txt=1}
+ stahlcon: {sustainableenergy.txt=1}
+ stakeholders: {sustainableenergy.txt=1}
+ stalks: {sustainableenergy.txt=1}
+ stand-alone: {sustainableenergy.txt=1}
+ standard: {sustainableenergy.txt=1, greenpower.txt=1}
+ stars: {sustainableenergy.txt=1}
+ started: {sustainableenergy.txt=2, greenpower.txt=1}
+ starting: {greenpower.txt=1}
+ state: {sustainableenergy.txt=3, greenpower.txt=1}
+ statement: {sustainableenergy.txt=1}
+ states: {sustainableenergy.txt=20}
+ states:: {sustainableenergy.txt=1}
+ station: {sustainableenergy.txt=3}
+ stations: {sustainableenergy.txt=4}
+ stays: {sustainableenergy.txt=1}
+ steady: {sustainableenergy.txt=1}
+ steady-flow: {sustainableenergy.txt=1}
+ steam: {sustainableenergy.txt=1}
+ stem: {greenpower.txt=1}
+ stems: {sustainableenergy.txt=1}
+ step: {sustainableenergy.txt=1}
+ sterling: {sustainableenergy.txt=1}
+ still: {sustainableenergy.txt=11, greenpower.txt=2}
+ stirling: {sustainableenergy.txt=1}
+ stirring: {sustainableenergy.txt=1}
+ stop: {greenpower.txt=1}
+ storage: {sustainableenergy.txt=20}
+ storages: {sustainableenergy.txt=2}
+ store: {sustainableenergy.txt=1}
+ stored: {sustainableenergy.txt=5}
+ storing: {sustainableenergy.txt=3}
+ strangford: {sustainableenergy.txt=1}
+ strategic: {sustainableenergy.txt=1}
+ straw: {sustainableenergy.txt=2}
+ strong: {sustainableenergy.txt=2}
+ structures: {sustainableenergy.txt=1}
+ students: {greenpower.txt=4}
+ studies: {sustainableenergy.txt=3}
+ study: {sustainableenergy.txt=2, greenpower.txt=1}
+ stumps: {sustainableenergy.txt=1}
+ style: {greenpower.txt=1}
+ sub-national: {sustainableenergy.txt=1}
+ subject: {sustainableenergy.txt=3}
+ subjects: {greenpower.txt=1}
+ submerged: {sustainableenergy.txt=1}
+ submitted: {greenpower.txt=1}
+ subsequent: {sustainableenergy.txt=1}
+ subset: {sustainableenergy.txt=1}
+ subsidence: {sustainableenergy.txt=1}
+ substantially: {sustainableenergy.txt=1}
+ substrates: {sustainableenergy.txt=1}
+ successful: {sustainableenergy.txt=2}
+ successfully: {sustainableenergy.txt=2}
+ such: {sustainableenergy.txt=28, greenpower.txt=5}
+ sufficient: {sustainableenergy.txt=3}
+ sugar: {sustainableenergy.txt=1}
+ sugarcane: {sustainableenergy.txt=1}
+ suggest: {sustainableenergy.txt=2}
+ suggestions: {sustainableenergy.txt=1}
+ suggests: {sustainableenergy.txt=1}
+ suitable: {greenpower.txt=1}
+ sulphurous: {sustainableenergy.txt=1}
+ sum: {sustainableenergy.txt=1}
+ summer: {sustainableenergy.txt=1}
+ sun: {sustainableenergy.txt=8}
+ sunday: {greenpower.txt=1}
+ sunedison: {sustainableenergy.txt=1}
+ sunlight: {sustainableenergy.txt=2}
+ superior: {sustainableenergy.txt=1}
+ supplied: {sustainableenergy.txt=1, greenpower.txt=1}
+ supplier: {sustainableenergy.txt=3}
+ supplies: {sustainableenergy.txt=4}
+ supply: {sustainableenergy.txt=6}
+ support: {sustainableenergy.txt=5, greenpower.txt=1}
+ supported: {sustainableenergy.txt=4}
+ supports: {sustainableenergy.txt=1}
+ surface: {sustainableenergy.txt=1}
+ surge: {sustainableenergy.txt=1}
+ surplus: {sustainableenergy.txt=1}
+ survey: {sustainableenergy.txt=1}
+ sussex: {greenpower.txt=1}
+ sustainability: {sustainableenergy.txt=5}
+ sustainable: {sustainableenergy.txt=37}
+ sustainably: {sustainableenergy.txt=1}
+ svartsengi: {sustainableenergy.txt=1}
+ swimming: {sustainableenergy.txt=1}
+ switchgrass: {sustainableenergy.txt=2}
+ synthesis: {sustainableenergy.txt=2}
+ synthesize: {sustainableenergy.txt=1}
+ synthetic: {sustainableenergy.txt=6}
+ system: {sustainableenergy.txt=16}
+ systems: {sustainableenergy.txt=20}
+ table: {greenpower.txt=2}
+ take: {sustainableenergy.txt=1, greenpower.txt=1}
+ take-up: {sustainableenergy.txt=1}
+ taken: {greenpower.txt=1}
+ takes: {sustainableenergy.txt=2}
+ taking: {sustainableenergy.txt=1}
+ tank: {sustainableenergy.txt=1}
+ tanker: {sustainableenergy.txt=1}
+ tanks: {sustainableenergy.txt=3}
+ tap: {sustainableenergy.txt=1}
+ tapping: {sustainableenergy.txt=1}
+ target: {sustainableenergy.txt=1}
+ targeted: {sustainableenergy.txt=3}
+ targets: {sustainableenergy.txt=1}
+ taxes: {sustainableenergy.txt=1}
+ team: {greenpower.txt=6}
+ team's: {greenpower.txt=1}
+ teams: {greenpower.txt=7}
+ technical: {sustainableenergy.txt=2, greenpower.txt=1}
+ technique: {sustainableenergy.txt=2}
+ techniques: {greenpower.txt=1}
+ technologies: {sustainableenergy.txt=24}
+ technology: {sustainableenergy.txt=15, greenpower.txt=3}
+ temperature: {sustainableenergy.txt=6}
+ ten: {sustainableenergy.txt=1}
+ tends: {sustainableenergy.txt=1}
+ tent-like: {sustainableenergy.txt=1}
+ term: {sustainableenergy.txt=1}
+ termed: {sustainableenergy.txt=1}
+ terminology: {sustainableenergy.txt=1}
+ terms: {sustainableenergy.txt=3}
+ test: {greenpower.txt=2}
+ tests: {greenpower.txt=1}
+ than: {sustainableenergy.txt=19, greenpower.txt=3}
+ thanet: {sustainableenergy.txt=1}
+ thanks: {sustainableenergy.txt=1}
+ that: {sustainableenergy.txt=75, greenpower.txt=10}
+ that:: {sustainableenergy.txt=1}
+ the: {sustainableenergy.txt=464, greenpower.txt=112}
+ their: {sustainableenergy.txt=14, greenpower.txt=4}
+ them: {sustainableenergy.txt=3}
+ themselves: {sustainableenergy.txt=1}
+ then: {sustainableenergy.txt=3, greenpower.txt=1}
+ there: {sustainableenergy.txt=14, greenpower.txt=5}
+ thereby: {sustainableenergy.txt=1}
+ therefore: {sustainableenergy.txt=3}
+ thermal: {sustainableenergy.txt=14}
+ thermodynamic: {sustainableenergy.txt=1}
+ these: {sustainableenergy.txt=15, greenpower.txt=4}
+ they: {sustainableenergy.txt=24, greenpower.txt=1}
+ thin: {sustainableenergy.txt=1}
+ thin-film: {sustainableenergy.txt=1}
+ thinks: {sustainableenergy.txt=1}
+ third: {sustainableenergy.txt=2}
+ third-generation: {sustainableenergy.txt=3}
+ third-party: {sustainableenergy.txt=1}
+ this: {sustainableenergy.txt=31, greenpower.txt=8}
+ thorium: {sustainableenergy.txt=2}
+ thorium-based: {sustainableenergy.txt=1}
+ those: {sustainableenergy.txt=6, greenpower.txt=3}
+ thought: {sustainableenergy.txt=1}
+ thousand: {sustainableenergy.txt=1}
+ threat: {sustainableenergy.txt=2}
+ three: {sustainableenergy.txt=4, greenpower.txt=2}
+ thrill: {greenpower.txt=1}
+ through: {sustainableenergy.txt=12}
+ throughout: {sustainableenergy.txt=1}
+ thus: {sustainableenergy.txt=6}
+ tidal: {sustainableenergy.txt=7}
+ time: {sustainableenergy.txt=6, greenpower.txt=3}
+ times: {sustainableenergy.txt=3, greenpower.txt=1}
+ to: {sustainableenergy.txt=220, greenpower.txt=42}
+ today: {sustainableenergy.txt=4}
+ together: {sustainableenergy.txt=1, greenpower.txt=1}
+ tons: {sustainableenergy.txt=1}
+ too: {sustainableenergy.txt=6}
+ tools: {sustainableenergy.txt=1, greenpower.txt=1}
+ top: {sustainableenergy.txt=1, greenpower.txt=5}
+ total: {sustainableenergy.txt=6, greenpower.txt=1}
+ totaled: {sustainableenergy.txt=1}
+ toward: {sustainableenergy.txt=2}
+ towards: {sustainableenergy.txt=4}
+ towers: {sustainableenergy.txt=1}
+ track: {greenpower.txt=3}
+ tracking: {sustainableenergy.txt=1}
+ tracks: {greenpower.txt=1}
+ trading: {greenpower.txt=1}
+ traditional: {sustainableenergy.txt=3}
+ trained: {sustainableenergy.txt=1}
+ transaction: {sustainableenergy.txt=1}
+ transactions: {sustainableenergy.txt=1}
+ transition: {sustainableenergy.txt=1}
+ translucent: {sustainableenergy.txt=1}
+ transmission: {sustainableenergy.txt=1}
+ transmutation: {sustainableenergy.txt=1}
+ transparency: {sustainableenergy.txt=1}
+ transportation: {sustainableenergy.txt=4}
+ transported: {sustainableenergy.txt=1}
+ transporting: {sustainableenergy.txt=1}
+ travel: {sustainableenergy.txt=1}
+ treatment: {sustainableenergy.txt=1}
+ trec: {sustainableenergy.txt=1}
+ tree: {sustainableenergy.txt=3}
+ trees: {sustainableenergy.txt=1}
+ trend: {sustainableenergy.txt=2}
+ tropical: {sustainableenergy.txt=1}
+ trough: {sustainableenergy.txt=1}
+ truck: {sustainableenergy.txt=1}
+ trucks: {sustainableenergy.txt=1}
+ trust: {greenpower.txt=2}
+ turbine: {sustainableenergy.txt=4}
+ turbines: {sustainableenergy.txt=6}
+ turn: {sustainableenergy.txt=2}
+ turns: {sustainableenergy.txt=1}
+ twin: {sustainableenergy.txt=2}
+ two: {sustainableenergy.txt=4, greenpower.txt=4}
+ two-way: {sustainableenergy.txt=1}
+ type: {sustainableenergy.txt=2}
+ types: {sustainableenergy.txt=5}
+ typical: {greenpower.txt=1}
+ typically: {sustainableenergy.txt=2, greenpower.txt=1}
+ uk: {sustainableenergy.txt=1, greenpower.txt=4}
+ ultimately: {sustainableenergy.txt=1}
+ ultraviolet: {sustainableenergy.txt=1}
+ unacceptable: {sustainableenergy.txt=1}
+ unc: {sustainableenergy.txt=1}
+ under: {sustainableenergy.txt=7}
+ under-estimated: {greenpower.txt=1}
+ underground: {sustainableenergy.txt=1}
+ undertaken: {sustainableenergy.txt=1}
+ underwater: {sustainableenergy.txt=1}
+ underwent: {sustainableenergy.txt=1}
+ unep: {sustainableenergy.txt=1}
+ union: {sustainableenergy.txt=1}
+ unit: {sustainableenergy.txt=1}
+ united: {sustainableenergy.txt=17}
+ units: {sustainableenergy.txt=2, greenpower.txt=1}
+ universities: {greenpower.txt=2}
+ university: {sustainableenergy.txt=2, greenpower.txt=1}
+ unknown: {sustainableenergy.txt=1}
+ unless: {sustainableenergy.txt=1}
+ unlike: {sustainableenergy.txt=1, greenpower.txt=1}
+ unsuitable: {sustainableenergy.txt=1}
+ until: {sustainableenergy.txt=1, greenpower.txt=1}
+ up: {sustainableenergy.txt=11, greenpower.txt=4}
+ upgraded: {sustainableenergy.txt=1}
+ uranium: {sustainableenergy.txt=1}
+ urban: {sustainableenergy.txt=1}
+ us: {sustainableenergy.txt=11}
+ usa: {sustainableenergy.txt=2}
+ usage: {sustainableenergy.txt=3}
+ usa’s: {sustainableenergy.txt=1}
+ usda: {sustainableenergy.txt=1}
+ use: {sustainableenergy.txt=30, greenpower.txt=4}
+ used: {sustainableenergy.txt=25, greenpower.txt=3}
+ useful: {sustainableenergy.txt=2}
+ usepa: {sustainableenergy.txt=1}
+ users: {sustainableenergy.txt=1}
+ users’: {sustainableenergy.txt=1}
+ uses: {sustainableenergy.txt=1}
+ using: {sustainableenergy.txt=9, greenpower.txt=2}
+ usually: {sustainableenergy.txt=3}
+ utilities: {sustainableenergy.txt=2}
+ utility: {sustainableenergy.txt=6}
+ utilization: {sustainableenergy.txt=2}
+ utilizing: {sustainableenergy.txt=2}
+ valley: {sustainableenergy.txt=1}
+ value: {sustainableenergy.txt=1}
+ variation: {greenpower.txt=1}
+ varieties: {sustainableenergy.txt=1}
+ variety: {sustainableenergy.txt=1}
+ various: {sustainableenergy.txt=6}
+ vat: {greenpower.txt=2}
+ vehicle: {sustainableenergy.txt=3}
+ vehicles: {sustainableenergy.txt=7, greenpower.txt=1}
+ very: {sustainableenergy.txt=8}
+ via: {sustainableenergy.txt=4}
+ viability: {sustainableenergy.txt=2}
+ viable: {sustainableenergy.txt=2}
+ victoria: {sustainableenergy.txt=1}
+ virunga: {sustainableenergy.txt=1}
+ visible: {sustainableenergy.txt=2}
+ vision: {sustainableenergy.txt=1}
+ volcanoes: {sustainableenergy.txt=1}
+ voluntary: {sustainableenergy.txt=3}
+ waldpolenz: {sustainableenergy.txt=1}
+ walney: {sustainableenergy.txt=1}
+ want: {sustainableenergy.txt=1}
+ warm: {sustainableenergy.txt=1}
+ warmest: {sustainableenergy.txt=1}
+ warming: {sustainableenergy.txt=4}

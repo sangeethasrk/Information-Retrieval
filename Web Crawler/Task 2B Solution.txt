@@ -1,0 +1,963 @@
+Task 2B depth first focused crawlinf
+
+
+http://en.wikipedia.org/wiki/Sustainable_energy
+https://en.wikipedia.org/wiki/Energy_conservation
+https://en.wikipedia.org/wiki/Cogeneration
+https://en.wikipedia.org/wiki/Efficient_energy_use
+https://en.wikipedia.org/wiki/Compact_fluorescent_lamp
+https://en.wikipedia.org/wiki/Geothermal_heat_pump
+https://en.wikipedia.org/wiki/Geothermal_power
+https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/The_Green_Building_(Louisville,_Kentucky)
+https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design
+https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design
+https://en.wikipedia.org/wiki/Gill_Holland
+https://en.wikipedia.org/wiki/Geothermal_heat_pump
+https://en.wikipedia.org/wiki/Green_roof
+https://en.wikipedia.org/wiki/Geographic_coordinate_system
+https://en.wikipedia.org/wiki/Tower_at_PNC_Plaza
+https://en.wikipedia.org/wiki/Phipps_Conservatory_%26_Botanical_Gardens
+https://en.wikipedia.org/wiki/Zero-energy_building
+https://en.wikipedia.org/wiki/Texas
+https://en.wikipedia.org/wiki/Low-carbon_power
+https://en.wikipedia.org/wiki/Microgeneration
+https://en.wikipedia.org/wiki/Passive_solar_building_design
+https://en.wikipedia.org/wiki/Renewable_energy
+https://en.wikipedia.org/wiki/Anaerobic_digestion
+https://en.wikipedia.org/wiki/Geothermal_electricity
+https://en.wikipedia.org/wiki/Hydroelectricity
+https://en.wikipedia.org/wiki/Solar_energy
+https://en.wikipedia.org/wiki/Tidal_power
+https://en.wikipedia.org/wiki/Wind_power
+https://en.wikipedia.org/wiki/Sustainable_transport
+https://en.wikipedia.org/wiki/Carbon-neutral_fuel
+https://en.wikipedia.org/wiki/Electric_vehicle
+https://en.wikipedia.org/wiki/Fossil-fuel_phase-out
+https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Plug-in_hybrid
+https://en.wikipedia.org/wiki/Passive_solar_building_design
+https://en.wikipedia.org/wiki/Renewable_energy
+https://en.wikipedia.org/wiki/Anaerobic_digestion
+https://en.wikipedia.org/wiki/Geothermal_electricity
+https://en.wikipedia.org/wiki/Hydroelectricity
+https://en.wikipedia.org/wiki/Solar_energy
+https://en.wikipedia.org/wiki/Tidal_power
+https://en.wikipedia.org/wiki/Wind_power
+https://en.wikipedia.org/wiki/Sustainable_transport
+https://en.wikipedia.org/wiki/Carbon-neutral_fuel
+https://en.wikipedia.org/wiki/Electric_vehicle
+https://en.wikipedia.org/wiki/Fossil-fuel_phase-out
+https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Plug-in_hybrid
+https://en.wikipedia.org/wiki/Building_insulation
+https://en.wikipedia.org/wiki/Fluorescent_lights
+https://en.wikipedia.org/wiki/LED_lights
+https://en.wikipedia.org/wiki/Skylight_(window)
+https://en.wikipedia.org/wiki/Incandescent_light_bulbs
+https://en.wikipedia.org/wiki/Greenhouse_gas
+https://en.wikipedia.org/wiki/International_Energy_Agency
+https://en.wikipedia.org/wiki/Energy_efficient_buildings
+https://en.wikipedia.org/wiki/Sustainable_transportation
+https://en.wikipedia.org/wiki/Energy_hierarchy
+https://en.wikipedia.org/wiki/California
+https://en.wikipedia.org/wiki/Rocky_Mountain_Institute
+https://en.wikipedia.org/wiki/United_States_Department_of_Energy
+https://en.wikipedia.org/wiki/Vienna_Climate_Change_Talks_2007
+https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change
+https://en.wikipedia.org/wiki/Solar_lamp
+https://en.wikipedia.org/wiki/Freezers
+https://en.wikipedia.org/wiki/Oven
+https://en.wikipedia.org/wiki/Window_insulation_film
+https://en.wikipedia.org/wiki/Passive_solar_heating
+https://en.wikipedia.org/wiki/Compact_fluorescent_lights
+https://en.wikipedia.org/wiki/Ground_source_heat_pump
+https://en.wikipedia.org/wiki/Smart_meter
+https://en.wikipedia.org/wiki/Deep_energy_retrofit
+https://en.wikipedia.org/wiki/Green_retrofit
+https://en.wikipedia.org/wiki/Air_conditioning
+https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design
+https://en.wikipedia.org/wiki/Low_carbon
+https://en.wikipedia.org/wiki/Natural_gas
+https://en.wikipedia.org/wiki/Petroleum
+https://en.wikipedia.org/wiki/Electricity
+https://en.wikipedia.org/wiki/Steam
+https://en.wikipedia.org/wiki/Co-generation
+https://en.wikipedia.org/wiki/US_Department_of_Energy
+https://en.wikipedia.org/wiki/Pumps
+https://en.wikipedia.org/wiki/Energy_efficiency_in_transportation
+https://en.wikipedia.org/wiki/Toyota_Prius
+https://en.wikipedia.org/wiki/Fuel_efficiency
+https://en.wikipedia.org/wiki/Composite_materials
+https://en.wikipedia.org/wiki/Alternative_fuel
+https://en.wikipedia.org/wiki/Biodiesel
+https://en.wikipedia.org/wiki/Gasohol
+https://en.wikipedia.org/wiki/Ethanol_fuel
+https://en.wikipedia.org/wiki/Neat_alcohol_fuel
+https://en.wikipedia.org/wiki/Compressed_natural_gas
+https://en.wikipedia.org/wiki/Tesla_Model_S
+https://en.wikipedia.org/wiki/Alternative_fuels
+https://en.wikipedia.org/wiki/Fuel
+https://en.wikipedia.org/wiki/Bioalcohol
+https://en.wikipedia.org/wiki/Fuel_cell
+https://en.wikipedia.org/wiki/Hydrogen
+https://en.wikipedia.org/wiki/Methane
+https://en.wikipedia.org/wiki/Biomass
+https://en.wikipedia.org/wiki/Fossil_fuels
+https://en.wikipedia.org/wiki/Carbon_dioxide_emissions
+https://en.wikipedia.org/wiki/Clean_energy
+https://en.wikipedia.org/wiki/Rebound_effect_(conservation)
+https://en.wikipedia.org/wiki/Jevons%27_paradox
+https://en.wikipedia.org/wiki/IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13
+https://en.wikipedia.org/wiki/International_Electrotechnical_Commission
+https://en.wikipedia.org/wiki/The_Lebanese_Center_for_Energy_Conservation
+https://en.wikipedia.org/wiki/The_Carbon_Trust
+https://en.wikipedia.org/wiki/Energy_Saving_Trust
+https://en.wikipedia.org/wiki/National_Energy_Action
+https://en.wikipedia.org/wiki/National_Energy_Foundation
+https://en.wikipedia.org/wiki/Creative_Energy_Homes
+https://en.wikipedia.org/wiki/Energy_audit
+https://en.wikipedia.org/wiki/Energy_conservation_measure
+https://en.wikipedia.org/wiki/Energy_recovery
+https://en.wikipedia.org/wiki/Energy_resilience
+https://en.wikipedia.org/wiki/Energy_storage
+https://en.wikipedia.org/wiki/List_of_energy_storage_projects
+https://en.wikipedia.org/wiki/List_of_least_carbon_efficient_power_stations
+https://en.wikipedia.org/wiki/Negawatt_power
+https://en.wikipedia.org/wiki/Renewable_heat
+https://en.wikipedia.org/wiki/Solar_Decathlon
+https://en.wikipedia.org/wiki/The_Green_Deal
+https://en.wikipedia.org/wiki/Heat_engine
+https://en.wikipedia.org/wiki/Power_station
+https://en.wikipedia.org/wiki/Electricity_generation
+https://en.wikipedia.org/wiki/Heat
+https://en.wikipedia.org/wiki/Fuel
+https://en.wikipedia.org/wiki/Waste_heat
+https://en.wikipedia.org/wiki/Thermal_energy
+https://en.wikipedia.org/wiki/Thermal_power_plant
+https://en.wikipedia.org/wiki/Natural_environment
+https://en.wikipedia.org/wiki/Solar_Maximum_Mission
+https://en.wikipedia.org/wiki/NASA
+https://en.wikipedia.org/wiki/NASA_(disambiguation)
+https://en.wikipedia.org/wiki/National_Security_Agency
+https://en.wikipedia.org/wiki/NSA_(disambiguation)
+https://en.wikipedia.org/wiki/Delta_3000
+https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station
+https://en.wikipedia.org/wiki/Kennedy_Space_Center
+https://en.wikipedia.org/wiki/45th_Space_Wing
+https://en.wikipedia.org/wiki/Space_Race
+https://en.wikipedia.org/wiki/NASA
+https://en.wikipedia.org/wiki/John_F._Kennedy_Space_Center
+https://en.wikipedia.org/wiki/Explorer_1
+https://en.wikipedia.org/wiki/Surveyor_1
+https://en.wikipedia.org/wiki/Planetary_flyby
+https://en.wikipedia.org/wiki/Mariner_9
+https://en.wikipedia.org/wiki/Mars_Pathfinder
+https://en.wikipedia.org/wiki/Pioneer_Venus_project
+https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens
+https://en.wikipedia.org/wiki/MESSENGER
+https://en.wikipedia.org/wiki/Voyager_1
+https://en.wikipedia.org/wiki/Equator
+https://en.wikipedia.org/wiki/Sputnik_1
+https://en.wikipedia.org/wiki/Vanguard_TV3
+https://en.wikipedia.org/wiki/Jupiter_IRBM
+https://en.wikipedia.org/wiki/Thor_(rocket)
+https://en.wikipedia.org/wiki/Titan_(rocket_family)
+https://en.wikipedia.org/wiki/Delta_rocket
+https://en.wikipedia.org/wiki/Telstar_1
+https://en.wikipedia.org/wiki/Project_Mercury
+https://en.wikipedia.org/wiki/Alan_Shepard
+https://en.wikipedia.org/wiki/John_Glenn
+https://en.wikipedia.org/wiki/Project_Gemini
+https://en.wikipedia.org/wiki/Apollo_program
+https://en.wikipedia.org/wiki/Atlas-Agena
+https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft
+https://en.wikipedia.org/wiki/Gemini_12
+https://en.wikipedia.org/wiki/Christopher_C._Kraft_Jr._Mission_Control_Center
+https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center
+https://en.wikipedia.org/wiki/Saturn_V
+https://en.wikipedia.org/wiki/Apollo_Command/Service_Module
+https://en.wikipedia.org/wiki/Apollo_Lunar_Module
+https://en.wikipedia.org/wiki/Apollo_Applications_Program
+https://en.wikipedia.org/wiki/Skylab
+https://en.wikipedia.org/wiki/Apollo-Soyuz_Test_Project
+https://en.wikipedia.org/wiki/Manned_Orbital_Laboratory
+https://en.wikipedia.org/wiki/Viking_program
+https://en.wikipedia.org/wiki/Voyager_program
+https://en.wikipedia.org/wiki/Private_spaceflight
+https://en.wikipedia.org/wiki/SpaceX
+https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_17
+https://en.wikipedia.org/wiki/Thor_(rocket_family)
+https://en.wikipedia.org/wiki/Ranger_program
+https://en.wikipedia.org/wiki/Lunar_Orbiter_program
+https://en.wikipedia.org/wiki/Mariner_program
+https://en.wikipedia.org/wiki/Atlas-Centaur
+https://en.wikipedia.org/wiki/Titan_IIIE
+https://en.wikipedia.org/wiki/Atlas_V
+https://en.wikipedia.org/wiki/International_Space_Station
+https://en.wikipedia.org/wiki/Launch_Services_Program
+https://en.wikipedia.org/wiki/Atlas_V_rocket
+https://en.wikipedia.org/wiki/Falcon_Heavy
+https://en.wikipedia.org/wiki/Dragon_V2
+https://en.wikipedia.org/wiki/Blue_Origin
+https://en.wikipedia.org/wiki/Guiana_Space_Centre
+https://en.wikipedia.org/wiki/Kodiak_Launch_Complex
+https://en.wikipedia.org/wiki/Geographic_coordinate_system
+https://en.wikipedia.org/wiki/Voyager_2
+https://en.wikipedia.org/wiki/Delta_IV_Heavy
+https://en.wikipedia.org/wiki/Schriever_Air_Force_Base
+https://en.wikipedia.org/wiki/6th_Space_Operations_Squadron
+https://en.wikipedia.org/wiki/Spaceport
+https://en.wikipedia.org/wiki/China_National_Space_Administration
+https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center
+https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center
+https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center
+https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center
+https://en.wikipedia.org/wiki/India
+https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation
+https://en.wikipedia.org/wiki/Iran
+https://en.wikipedia.org/wiki/Iranian_Space_Agency
+https://en.wikipedia.org/wiki/Israel
+https://en.wikipedia.org/wiki/Israel_Space_Agency
+https://en.wikipedia.org/wiki/Japan
+https://en.wikipedia.org/wiki/Japan_Aerospace_Exploration_Agency
+https://en.wikipedia.org/wiki/North_Korea
+https://en.wikipedia.org/wiki/Pakistan
+https://en.wikipedia.org/wiki/Space_and_Upper_Atmosphere_Research_Commission
+https://en.wikipedia.org/wiki/South_Korea
+https://en.wikipedia.org/wiki/National_Institute_of_Aeronautics_and_Space
+https://en.wikipedia.org/wiki/Esrange
+https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration
+https://en.wikipedia.org/wiki/Wallops_Flight_Facility
+https://en.wikipedia.org/wiki/Spaceport_America
+https://en.wikipedia.org/wiki/European_Space_Agency
+https://en.wikipedia.org/wiki/France
+https://en.wikipedia.org/wiki/CNES
+https://en.wikipedia.org/wiki/Italy
+https://en.wikipedia.org/wiki/Italian_Space_Agency
+https://en.wikipedia.org/wiki/Marshall_Islands
+https://en.wikipedia.org/wiki/Neutral_Buoyancy_Simulator
+https://en.wikipedia.org/wiki/Arizona
+https://en.wikipedia.org/wiki/California
+https://en.wikipedia.org/wiki/Space_Flight_Operations_Facility
+https://en.wikipedia.org/wiki/Texas
+https://en.wikipedia.org/wiki/Mission_Control_Center_(NASA)
+https://en.wikipedia.org/wiki/Mariner_program
+https://en.wikipedia.org/wiki/Mariner_1
+https://en.wikipedia.org/wiki/NASA
+https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory
+https://en.wikipedia.org/wiki/Robotic_spacecraft
+https://en.wikipedia.org/wiki/Space_probe
+https://en.wikipedia.org/wiki/Mars
+https://en.wikipedia.org/wiki/Venus
+https://en.wikipedia.org/wiki/Mercury_(planet)
+https://en.wikipedia.org/wiki/Planetary_flyby
+https://en.wikipedia.org/wiki/Gravity_assist
+https://en.wikipedia.org/wiki/Voyager_1
+https://en.wikipedia.org/wiki/Voyager_2
+https://en.wikipedia.org/wiki/Voyager_program
+https://en.wikipedia.org/wiki/Viking_1
+https://en.wikipedia.org/wiki/Viking_2
+https://en.wikipedia.org/wiki/Mariner_9
+https://en.wikipedia.org/wiki/Magellan_spacecraft
+https://en.wikipedia.org/wiki/Galileo_spacecraft
+https://en.wikipedia.org/wiki/Jupiter
+https://en.wikipedia.org/wiki/Mariner_Mark_II
+https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens
+https://en.wikipedia.org/wiki/Saturn
+https://en.wikipedia.org/wiki/William_Hayward_Pickering
+https://en.wikipedia.org/wiki/Mariner_2
+https://en.wikipedia.org/wiki/Mariner_10
+https://en.wikipedia.org/wiki/Ranger_program
+https://en.wikipedia.org/wiki/Mariner_5
+https://en.wikipedia.org/wiki/Atlas-Agena
+https://en.wikipedia.org/wiki/Rocket
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Hayward_Pickering
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Pickering_(disambiguation)
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Henry_Pickering
+Visiting Webpage at https://en.wikipedia.org/wiki/Member_of_The_Order_of_New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/Knight_Commander_of_The_Most_Excellent_Order_of_the_British_Empire
+Visiting Webpage at https://en.wikipedia.org/wiki/Wellington
+Visiting Webpage at https://en.wikipedia.org/wiki/New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/Flintridge
+Visiting Webpage at https://en.wikipedia.org/wiki/California
+Visiting Webpage at https://en.wikipedia.org/wiki/United_States
+Visiting Webpage at https://en.wikipedia.org/wiki/Magellanic_Premium
+Visiting Webpage at https://en.wikipedia.org/wiki/IEEE_Edison_Medal
+Visiting Webpage at https://en.wikipedia.org/wiki/National_Medal_of_Science
+Visiting Webpage at https://en.wikipedia.org/wiki/The_Franklin_Institute_Awards
+Visiting Webpage at https://en.wikipedia.org/wiki/Japan_Prize
+Visiting Webpage at https://en.wikipedia.org/wiki/Daniel_Guggenheim_Medal
+Visiting Webpage at https://en.wikipedia.org/wiki/Pasadena,_California
+Visiting Webpage at https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory
+Visiting Webpage at https://en.wikipedia.org/wiki/NASA
+Visiting Webpage at https://en.wikipedia.org/wiki/United_States_National_Academy_of_Engineering
+Visiting Webpage at https://en.wikipedia.org/wiki/Havelock,_New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/Marlborough_Region
+Visiting Webpage at https://en.wikipedia.org/wiki/Wellington_College_(New_Zealand)
+Visiting Webpage at https://en.wikipedia.org/wiki/University_of_Canterbury
+Visiting Webpage at https://en.wikipedia.org/wiki/California_Institute_of_Technology
+Visiting Webpage at https://en.wikipedia.org/wiki/PhD
+Visiting Webpage at https://en.wikipedia.org/wiki/Physics
+Visiting Webpage at https://en.wikipedia.org/wiki/Electrical_Engineering
+Visiting Webpage at https://en.wikipedia.org/wiki/Telemetry
+Visiting Webpage at https://en.wikipedia.org/wiki/Private_(missile)
+Visiting Webpage at https://en.wikipedia.org/wiki/MGM-5_Corporal
+Visiting Webpage at https://en.wikipedia.org/wiki/Explorer_I
+Visiting Webpage at https://en.wikipedia.org/wiki/Jupiter-C
+Visiting Webpage at https://en.wikipedia.org/wiki/Cape_Canaveral
+Visiting Webpage at https://en.wikipedia.org/wiki/Sputnik
+Visiting Webpage at https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration
+Visiting Webpage at https://en.wikipedia.org/wiki/Explorer_3
+Visiting Webpage at https://en.wikipedia.org/wiki/Pioneer_4
+Visiting Webpage at https://en.wikipedia.org/wiki/Ranger_program
+Visiting Webpage at https://en.wikipedia.org/wiki/Surveyor_program
+Visiting Webpage at https://en.wikipedia.org/wiki/Mariner_program
+Visiting Webpage at https://en.wikipedia.org/wiki/Van_Allen_radiation_belt
+Visiting Webpage at https://en.wikipedia.org/wiki/Satellite
+Visiting Webpage at https://en.wikipedia.org/wiki/Astronomer
+Visiting Webpage at https://en.wikipedia.org/wiki/Voyager_program
+Visiting Webpage at https://en.wikipedia.org/wiki/Viking_1
+Visiting Webpage at https://en.wikipedia.org/wiki/Mars
+Visiting Webpage at https://en.wikipedia.org/wiki/La_Ca%C3%B1ada_Flintridge,_California
+Visiting Webpage at https://en.wikipedia.org/wiki/Gifford_Observatory
+Visiting Webpage at https://en.wikipedia.org/wiki/IEEE
+Visiting Webpage at https://en.wikipedia.org/wiki/Edison_Medal
+Visiting Webpage at https://en.wikipedia.org/wiki/Gerald_Ford
+Visiting Webpage at https://en.wikipedia.org/wiki/Order_of_the_British_Empire
+Visiting Webpage at https://en.wikipedia.org/wiki/Bernard_Price_Memorial_Lecture
+Visiting Webpage at https://en.wikipedia.org/wiki/Order_of_New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/IPENZ
+Visiting Webpage at https://en.wikipedia.org/wiki/Cover_of_Time
+Visiting Webpage at https://en.wikipedia.org/wiki/International_Year_of_Astronomy
+Visiting Webpage at https://en.wikipedia.org/wiki/Beatrice_Tinsley
+Visiting Webpage at https://en.wikipedia.org/wiki/Kepler_Mountains
+Visiting Webpage at https://en.wikipedia.org/wiki/Fiordland_National_Park
+Visiting Webpage at https://en.wikipedia.org/wiki/New_Zealand_Geographic_Board
+Visiting Webpage at https://en.wikipedia.org/wiki/Christchurch
+Visiting Webpage at https://en.wikipedia.org/wiki/Hamilton,_New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/Auckland
+Visiting Webpage at https://en.wikipedia.org/wiki/John_Noble_Wilford
+Visiting Webpage at https://en.wikipedia.org/wiki/New_York_Times
+Visiting Webpage at https://en.wikipedia.org/wiki/Digital_object_identifier
+Visiting Webpage at https://en.wikipedia.org/wiki/National_Academy_of_Engineering
+Visiting Webpage at https://en.wikipedia.org/wiki/Royal_Astronomical_Society_of_New_Zealand
+Visiting Webpage at https://en.wikipedia.org/wiki/Wayback_Machine
+Visiting Webpage at https://en.wikipedia.org/wiki/Charles_F._Wagner
+Visiting Webpage at https://en.wikipedia.org/wiki/Vladimir_K._Zworykin
+Visiting Webpage at https://en.wikipedia.org/wiki/John_F._Peters
+Visiting Webpage at https://en.wikipedia.org/wiki/Oliver_Ellsworth_Buckley
+Visiting Webpage at https://en.wikipedia.org/wiki/Leonid_A._Umansky
+Visiting Webpage at https://en.wikipedia.org/wiki/Comfort_A._Adams
+Visiting Webpage at https://en.wikipedia.org/wiki/John_K._Hodnette
+Visiting Webpage at https://en.wikipedia.org/wiki/Charles_F._Kettering
+Visiting Webpage at https://en.wikipedia.org/wiki/James_F._Fairman
+Visiting Webpage at https://en.wikipedia.org/wiki/Harold_S._Osborne
+Visiting Webpage at https://en.wikipedia.org/wiki/William_B._Kouwenhoven
+Visiting Webpage at https://en.wikipedia.org/wiki/Alexander_C._Monteith
+Visiting Webpage at https://en.wikipedia.org/wiki/John_R._Pierce
+Visiting Webpage at https://en.wikipedia.org/wiki/Walker_Lee_Cisler
+Visiting Webpage at https://en.wikipedia.org/wiki/Wilmer_L._Barrow
+Visiting Webpage at https://en.wikipedia.org/wiki/George_Harold_Brown
+Visiting Webpage at https://en.wikipedia.org/wiki/Charles_F._Avila
+Visiting Webpage at https://en.wikipedia.org/wiki/Hendrik_Wade_Bode
+Visiting Webpage at https://en.wikipedia.org/wiki/Howard_H._Aiken
+Visiting Webpage at https://en.wikipedia.org/wiki/John_Wistar_Simpson
+Visiting Webpage at https://en.wikipedia.org/wiki/Bernard_D._H._Tellegen
+Visiting Webpage at https://en.wikipedia.org/wiki/Jan_A._Rajchman
+Visiting Webpage at https://en.wikipedia.org/wiki/Sidney_Darlington
+Visiting Webpage at https://en.wikipedia.org/wiki/Laureate
+Visiting Webpage at https://en.wikipedia.org/wiki/Roger_Adams
+Visiting Webpage at https://en.wikipedia.org/wiki/Othmar_Ammann
+Visiting Webpage at https://en.wikipedia.org/wiki/Theodosius_Dobzhansky
+Visiting Webpage at https://en.wikipedia.org/wiki/Neal_E._Miller
+Visiting Webpage at https://en.wikipedia.org/wiki/Herbert_A._Simon
+Visiting Webpage at https://en.wikipedia.org/wiki/Anne_Anastasi
+Visiting Webpage at https://en.wikipedia.org/wiki/George_Stigler
+Visiting Webpage at https://en.wikipedia.org/wiki/Milton_Friedman
+Visiting Webpage at https://en.wikipedia.org/wiki/Leonid_Hurwicz
+Visiting Webpage at https://en.wikipedia.org/wiki/Patrick_Suppes
+Visiting Webpage at https://en.wikipedia.org/wiki/Robert_Kates
+Visiting Webpage at https://en.wikipedia.org/wiki/George_Armitage_Miller
+Visiting Webpage at https://en.wikipedia.org/wiki/Eleanor_J._Gibson
+Visiting Webpage at https://en.wikipedia.org/wiki/Robert_K._Merton
+Visiting Webpage at https://en.wikipedia.org/wiki/Roger_Shepard
+Visiting Webpage at https://en.wikipedia.org/wiki/Paul_Samuelson
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Kaye_Estes
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Julius_Wilson
+Visiting Webpage at https://en.wikipedia.org/wiki/Robert_Solow
+Visiting Webpage at https://en.wikipedia.org/wiki/Gary_Becker
+Visiting Webpage at https://en.wikipedia.org/wiki/George_Bass_(archaeologist)
+Visiting Webpage at https://en.wikipedia.org/wiki/R._Duncan_Luce
+Visiting Webpage at https://en.wikipedia.org/wiki/Kenneth_Arrow
+Visiting Webpage at https://en.wikipedia.org/wiki/Gordon_H._Bower
+Visiting Webpage at https://en.wikipedia.org/wiki/Michael_Posner_(psychologist)
+Visiting Webpage at https://en.wikipedia.org/wiki/Anne_Treisman
+Visiting Webpage at https://en.wikipedia.org/wiki/Robert_Axelrod
+Visiting Webpage at https://en.wikipedia.org/wiki/C._B._van_Niel
+Visiting Webpage at https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg
+Visiting Webpage at https://en.wikipedia.org/wiki/Francis_Peyton_Rous
+Visiting Webpage at https://en.wikipedia.org/wiki/George_Gaylord_Simpson
+Visiting Webpage at https://en.wikipedia.org/wiki/Donald_Van_Slyke
+Visiting Webpage at https://en.wikipedia.org/wiki/Edward_F._Knipling
+Visiting Webpage at https://en.wikipedia.org/wiki/Fritz_Albert_Lipmann
+Visiting Webpage at https://en.wikipedia.org/wiki/William_Cumming_Rose
+Visiting Webpage at https://en.wikipedia.org/wiki/Sewall_Wright
+Visiting Webpage at https://en.wikipedia.org/wiki/Kenneth_Stewart_Cole
+Visiting Webpage at https://en.wikipedia.org/wiki/Harry_Harlow
+Visiting Webpage at https://en.wikipedia.org/wiki/Michael_Heidelberger
+Visiting Webpage at https://en.wikipedia.org/wiki/Alfred_Sturtevant
+Visiting Webpage at https://en.wikipedia.org/wiki/Horace_Barker
+Visiting Webpage at https://en.wikipedia.org/wiki/Bernard_Brodie_(biochemist)
+Visiting Webpage at https://en.wikipedia.org/wiki/Detlev_Bronk
+Visiting Webpage at https://en.wikipedia.org/wiki/Jay_Laurence_Lush
+https://en.wikipedia.org/wiki/Thomas_Aquinas
+https://en.wikipedia.org/wiki/Summa_Theologica
+https://en.wikipedia.org/wiki/The_Divine_Comedy
+https://en.wikipedia.org/wiki/Dante_Alighieri
+https://en.wikipedia.org/wiki/Concordance_(publishing)
+https://en.wikipedia.org/wiki/Latin_Vulgate
+https://en.wikipedia.org/wiki/Hugo_de_Saint-Cher
+https://en.wikipedia.org/wiki/Septuagint
+https://en.wikipedia.org/wiki/Isaac_Nathan_ben_Kalonymus
+https://en.wikipedia.org/wiki/Elias_Levita
+https://en.wikipedia.org/wiki/Mandelkern
+https://en.wikipedia.org/wiki/A_New_Concordance_of_the_Bible
+https://en.wikipedia.org/wiki/Edwin_Hatch
+https://en.wikipedia.org/wiki/Henry_Adeney_Redpath
+https://en.wikipedia.org/wiki/Origen_of_Alexandria
+https://en.wikipedia.org/wiki/Henry_Estienne
+https://en.wikipedia.org/wiki/William_Fiddian_Moulton
+https://en.wikipedia.org/wiki/George_Wigram
+https://en.wikipedia.org/wiki/John_Marbeck
+https://en.wikipedia.org/wiki/Cruden%27s_Concordance
+https://en.wikipedia.org/wiki/Alexander_Cruden
+https://en.wikipedia.org/wiki/Robert_Young_(Biblical_scholar)
+https://en.wikipedia.org/wiki/James_Strong_(theologian)
+https://en.wikipedia.org/wiki/Young%27s_Analytical_Concordance_to_the_Bible
+https://en.wikipedia.org/wiki/Strong%27s_Concordance
+https://en.wikipedia.org/wiki/Nave%27s_Topical_Bible
+https://en.wikipedia.org/wiki/Even-Shoshan_concordance
+https://en.wikipedia.org/wiki/Bible_concordance
+https://en.wikipedia.org/wiki/Syncretism
+https://en.wikipedia.org/wiki/First_Alcibiades
+https://en.wikipedia.org/wiki/Ren%C3%A9_Gu%C3%A9non
+https://en.wikipedia.org/wiki/Giordano_Bruno
+https://en.wikipedia.org/wiki/Western_mystery_tradition
+https://en.wikipedia.org/wiki/Faith
+https://en.wikipedia.org/wiki/Brahman
+https://en.wikipedia.org/wiki/God_in_Hinduism
+https://en.wikipedia.org/wiki/Creationism
+https://en.wikipedia.org/wiki/Augustine_of_Hippo
+https://en.wikipedia.org/wiki/Blaise_Pascal
+https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+https://en.wikipedia.org/wiki/Romanian_philosophy
+https://en.wikipedia.org/wiki/Western_esotericism
+https://en.wikipedia.org/wiki/Divine_Comedy
+https://en.wikipedia.org/wiki/Boccaccio
+https://en.wikipedia.org/wiki/Geoffrey_Chaucer
+https://en.wikipedia.org/wiki/William_Shakespeare
+https://en.wikipedia.org/wiki/Inferno_(Dante)
+https://en.wikipedia.org/wiki/Troubadours
+https://en.wikipedia.org/wiki/Cicero
+https://en.wikipedia.org/wiki/Virgil
+https://en.wikipedia.org/wiki/Giovanni_Boccaccio
+https://en.wikipedia.org/wiki/Ariosto
+https://en.wikipedia.org/wiki/Shakespeare
+https://en.wikipedia.org/wiki/Purgatorio
+https://en.wikipedia.org/wiki/List_of_cultural_references_in_Divine_Comedy
+https://en.wikipedia.org/wiki/Origen
+https://en.wikipedia.org/wiki/Cyprian
+https://en.wikipedia.org/wiki/Ambrose
+https://en.wikipedia.org/wiki/Albertus_Magnus
+https://en.wikipedia.org/wiki/Catherine_of_Siena
+https://en.wikipedia.org/wiki/Nicholas_of_Kues
+https://en.wikipedia.org/wiki/Christendom
+https://en.wikipedia.org/wiki/King_David
+https://en.wikipedia.org/wiki/Kingdom_of_Judah
+https://en.wikipedia.org/wiki/Babylonian_exile
+https://en.wikipedia.org/wiki/Pharisees
+https://en.wikipedia.org/wiki/Sadducees
+https://en.wikipedia.org/wiki/Lactantius
+https://en.wikipedia.org/wiki/Gentile
+https://en.wikipedia.org/wiki/Clement_of_Alexandria
+https://en.wikipedia.org/wiki/Vulgate
+https://en.wikipedia.org/wiki/Ten_Commandments
+https://en.wikipedia.org/wiki/Syriac_language
+https://en.wikipedia.org/wiki/Bruce_Metzger
+https://en.wikipedia.org/wiki/Heliand
+https://en.wikipedia.org/wiki/Z%C3%BCrich_Bible
+https://en.wikipedia.org/wiki/Novum_Testamentum_Graece
+https://en.wikipedia.org/wiki/Ordination_of_women
+https://en.wikipedia.org/wiki/Ethical_Decalogue
+https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+https://en.wikipedia.org/wiki/Raymond_E._Brown
+https://en.wikipedia.org/wiki/Bruce_M._Metzger
+https://en.wikipedia.org/wiki/Book_of_Jubilees
+https://en.wikipedia.org/wiki/Chapters_and_verses_of_the_Bible
+https://en.wikipedia.org/wiki/Dead_Sea_Scrolls
+https://en.wikipedia.org/wiki/Masoretic_Text
+https://en.wikipedia.org/wiki/List_of_English_Bible_translations
+https://en.wikipedia.org/wiki/Josephus_on_Jesus
+https://en.wikipedia.org/wiki/Names_and_titles_of_Jesus_in_the_New_Testament
+https://en.wikipedia.org/wiki/Baptism
+https://en.wikipedia.org/wiki/Canon_law_(Catholic_Church)
+https://en.wikipedia.org/wiki/Pope_Leo_XIII
+https://en.wikipedia.org/wiki/Temperance_(virtue)
+https://en.wikipedia.org/wiki/St._Augustine_of_Hippo
+https://en.wikipedia.org/wiki/Paul_VI
+https://en.wikipedia.org/wiki/Alhazen
+https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli
+https://en.wikipedia.org/wiki/Muhammad
+https://en.wikipedia.org/wiki/Adam
+https://en.wikipedia.org/wiki/Abel
+https://en.wikipedia.org/wiki/Isaac
+https://en.wikipedia.org/wiki/Jacob
+https://en.wikipedia.org/wiki/David
+https://en.wikipedia.org/wiki/Melchizedek
+https://en.wikipedia.org/wiki/Micah_(prophet)
+https://en.wikipedia.org/wiki/Pope_John_XXIII
+https://en.wikipedia.org/wiki/Rabbi
+https://en.wikipedia.org/wiki/Priest
+https://en.wikipedia.org/wiki/Divine_grace
+https://en.wikipedia.org/wiki/Galileo_Galilei
+https://en.wikipedia.org/wiki/T._S._Eliot
+https://en.wikipedia.org/wiki/Ren%C3%A9_Guenon
+https://en.wikipedia.org/wiki/Chaucer
+https://en.wikipedia.org/wiki/Vedas
+https://en.wikipedia.org/wiki/Latent_Semantic_Indexing
+https://en.wikipedia.org/wiki/Aligned_parallel_text
+https://en.wikipedia.org/wiki/Hugh_of_St_Cher
+https://en.wikipedia.org/wiki/Translation
+https://en.wikipedia.org/wiki/American_National_Corpus
+https://en.wikipedia.org/wiki/British_National_Corpus
+https://en.wikipedia.org/wiki/Corpus_of_Contemporary_American_English
+https://en.wikipedia.org/wiki/Corpus_manager
+https://en.wikipedia.org/wiki/Back-of-the-book_index
+https://en.wikipedia.org/wiki/A_Vedic_Word_Concordance
+https://en.wikipedia.org/wiki/Bitext
+https://en.wikipedia.org/wiki/Concordancer
+https://en.wikipedia.org/wiki/Index_(publishing)
+https://en.wikipedia.org/wiki/Key_Word_in_Context
+https://en.wikipedia.org/wiki/Maurice_Bloomfield
+https://en.wikipedia.org/wiki/Chinese_Text_Project
+https://en.wikipedia.org/wiki/Science_and_the_Bible
+https://en.wikipedia.org/wiki/Bible_verses
+https://en.wikipedia.org/wiki/Pope_Paul_VI
+https://en.wikipedia.org/wiki/Tetragrammaton
+https://en.wikipedia.org/wiki/Eve
+https://en.wikipedia.org/wiki/Ferdinand_Cavallera
+https://en.wikipedia.org/wiki/Particular_Church
+https://en.wikipedia.org/wiki/Pope_Pius_IX
+https://en.wikipedia.org/wiki/St._Augustine
+https://en.wikipedia.org/wiki/Twelve_tribes_of_Israel
+https://en.wikipedia.org/wiki/Masoretic
+https://en.wikipedia.org/wiki/Qumran_Scrolls
+https://en.wikipedia.org/wiki/Masoretic_text
+https://en.wikipedia.org/wiki/Apostolic_Bible_Polyglot
+https://en.wikipedia.org/wiki/New_King_James_Version
+https://en.wikipedia.org/wiki/Tanakh_at_Qumran
+https://en.wikipedia.org/wiki/Arlotus_of_Prato
+https://en.wikipedia.org/wiki/Egidio_da_Viterbo
+https://en.wikipedia.org/wiki/Elia_Levita
+https://en.wikipedia.org/wiki/Bernhard_Stade
+https://en.wikipedia.org/wiki/Salomon_Mandelkern
+https://en.wikipedia.org/wiki/Avraham_Even-Shoshan
+https://en.wikipedia.org/wiki/Demons
+https://en.wikipedia.org/wiki/Resurrection_of_the_dead
+https://en.wikipedia.org/wiki/Numen
+https://en.wikipedia.org/wiki/Prophets_of_Islam
+https://en.wikipedia.org/wiki/Henri_Estienne
+https://en.wikipedia.org/wiki/Plymouth_Brethren
+https://en.wikipedia.org/wiki/Richard_Turner_(reformer)
+https://en.wikipedia.org/wiki/John_Merbecke
+https://en.wikipedia.org/wiki/Aberdeen_Grammar_School
+https://en.wikipedia.org/wiki/Cruden%27s_concordance
+https://en.wikipedia.org/wiki/Sabbath_in_Christianity
+https://en.wikipedia.org/wiki/Bethnal_Green
+https://en.wikipedia.org/wiki/Young%27s_Literal_Translation
+https://en.wikipedia.org/wiki/Robert_Young_(biblical_scholar)
+https://en.wikipedia.org/wiki/Drew_Theological_Seminary
+https://en.wikipedia.org/wiki/Drew_University
+https://en.wikipedia.org/wiki/Babylonian_captivity_of_Judah
+https://en.wikipedia.org/wiki/Amun
+https://en.wikipedia.org/wiki/LDS_Church
+https://en.wikipedia.org/wiki/The_Way_International
+https://en.wikipedia.org/wiki/Cratylus_(dialogue)
+https://en.wikipedia.org/wiki/Timaeus_(dialogue)
+https://en.wikipedia.org/wiki/Esoterism
+https://en.wikipedia.org/wiki/Jihad
+https://en.wikipedia.org/wiki/Edom
+https://en.wikipedia.org/wiki/Lucifer
+https://en.wikipedia.org/wiki/The_Symbolism_of_the_Cross
+https://en.wikipedia.org/wiki/Jalal_ad-Din_Muhammad_Rumi
+https://en.wikipedia.org/wiki/Rumi
+https://en.wikipedia.org/wiki/Nicholas_of_Cusa
+https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium
+https://en.wikipedia.org/wiki/Planet
+https://en.wikipedia.org/wiki/Lucretius
+https://en.wikipedia.org/wiki/Finnegans_Wake
+https://en.wikipedia.org/wiki/Truth
+https://en.wikipedia.org/wiki/History_of_Hinduism
+https://en.wikipedia.org/wiki/Ahimsa
+https://en.wikipedia.org/wiki/Tapas_(Sanskrit)
+https://en.wikipedia.org/wiki/Mandukya_Upanishad
+https://en.wikipedia.org/wiki/Vedic_Sanskrit
+https://en.wikipedia.org/wiki/Veda
+https://en.wikipedia.org/wiki/Upaveda
+https://en.wikipedia.org/wiki/Young_Earth_creationism
+https://en.wikipedia.org/wiki/Evolution
+https://en.wikipedia.org/wiki/Age_of_the_Earth
+https://en.wikipedia.org/wiki/Dating_creation
+https://en.wikipedia.org/wiki/On_the_Origin_of_Species
+https://en.wikipedia.org/wiki/Human
+https://en.wikipedia.org/wiki/Age_of_the_universe
+https://en.wikipedia.org/wiki/E._W._Bullinger
+https://en.wikipedia.org/wiki/Intelligent_design_movement
+https://en.wikipedia.org/wiki/William_Jennings_Bryan
+https://en.wikipedia.org/wiki/Maurice_Bucaille
+https://en.wikipedia.org/wiki/Gettier_problem
+https://en.wikipedia.org/wiki/Galileo
+https://en.wikipedia.org/wiki/Augustinism
+https://en.wikipedia.org/wiki/Voltaire
+https://en.wikipedia.org/wiki/Nikola_Tesla
+https://en.wikipedia.org/wiki/Omniscience
+https://en.wikipedia.org/wiki/Skovoroda
+https://en.wikipedia.org/wiki/Nicolaus_Cusanus
+https://en.wikipedia.org/wiki/Africa_(Petrarch)
+https://en.wikipedia.org/wiki/Confessio_Amantis
+https://en.wikipedia.org/wiki/Guillaume_de_Machaut
+https://en.wikipedia.org/wiki/John_Betjeman
+https://en.wikipedia.org/wiki/Shakespeare%27s_sonnets
+https://en.wikipedia.org/wiki/Hamlet
+https://en.wikipedia.org/wiki/Tithes
+https://en.wikipedia.org/wiki/The_Winter%27s_Tale
+https://en.wikipedia.org/wiki/Thomas_Hardy_(writer)
+https://en.wikipedia.org/wiki/Stendhal
+https://en.wikipedia.org/wiki/Victor_Hugo
+https://en.wikipedia.org/wiki/T.S._Eliot
+https://en.wikipedia.org/wiki/The_Dark_Lady
+https://en.wikipedia.org/wiki/Literary_influence_of_Hamlet
+https://en.wikipedia.org/wiki/Thomas_of_Woodstock_(play)
+https://en.wikipedia.org/wiki/Harrowing_of_Hell
+https://en.wikipedia.org/wiki/Horace
+https://en.wikipedia.org/wiki/Lucan
+https://en.wikipedia.org/wiki/Cain_and_Abel
+https://en.wikipedia.org/wiki/List_of_cultural_references_in_The_Divine_Comedy
+https://en.wikipedia.org/wiki/Luys_d%27Aver%C3%A7%C3%B3
+https://en.wikipedia.org/wiki/Troubadour
+https://en.wikipedia.org/wiki/Personal_life_of_Marcus_Tullius_Cicero
+https://en.wikipedia.org/wiki/Writings_of_Marcus_Tullius_Cicero
+https://en.wikipedia.org/wiki/Apuleius
+https://en.wikipedia.org/wiki/Catullus
+https://en.wikipedia.org/wiki/Terence
+https://en.wikipedia.org/wiki/Pharsalia
+https://en.wikipedia.org/wiki/Marcus_Annaeus_Lucanus
+https://en.wikipedia.org/wiki/Ludovico_Ariosto
+https://en.wikipedia.org/wiki/Divine_Grace
+https://en.wikipedia.org/wiki/Christian_angelic_hierarchy
+https://en.wikipedia.org/wiki/Joshua
+https://en.wikipedia.org/wiki/Arab
+https://en.wikipedia.org/wiki/Historia_ecclesiastica_gentis_Anglorum
+https://en.wikipedia.org/wiki/Cain
+https://en.wikipedia.org/wiki/Donation_of_Constantine
+https://en.wikipedia.org/wiki/Jacopo_da_Santo_Andrea
+https://en.wikipedia.org/wiki/Lucan_(poet)
+https://en.wikipedia.org/wiki/Augustine
+https://en.wikipedia.org/wiki/David_(biblical_king)
+https://en.wikipedia.org/wiki/Didymus_the_Blind
+https://en.wikipedia.org/wiki/Conciliarism
+https://en.wikipedia.org/wiki/History_of_the_Seventh-day_Adventist_Church
+https://en.wikipedia.org/wiki/Friendship
+https://en.wikipedia.org/wiki/Pius_IX
+https://en.wikipedia.org/wiki/Gottfried_Leibniz
+https://en.wikipedia.org/wiki/Machiavelli
+https://en.wikipedia.org/wiki/Christian_culture
+https://en.wikipedia.org/wiki/Aquinas
+https://en.wikipedia.org/wiki/Christian_views_of_marriage
+https://en.wikipedia.org/wiki/Christian_mythology
+https://en.wikipedia.org/wiki/Israelites
+https://en.wikipedia.org/wiki/Joab
+https://en.wikipedia.org/wiki/Nabal
+https://en.wikipedia.org/wiki/Jehoash_of_Israel
+https://en.wikipedia.org/wiki/Jehoiakim
+https://en.wikipedia.org/wiki/Salah_(biblical_figure)
+https://en.wikipedia.org/wiki/Rebecca
+https://en.wikipedia.org/wiki/List_of_Quranic_prophets
+https://en.wikipedia.org/wiki/Prophets_in_Islam
+https://en.wikipedia.org/wiki/Hebrews
+https://en.wikipedia.org/wiki/Caliphate
+https://en.wikipedia.org/wiki/Baal
+https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(597_BC)
+https://en.wikipedia.org/wiki/Babylonian_Captivity
+https://en.wikipedia.org/wiki/Zerubbabel
+https://en.wikipedia.org/wiki/Babylonian_captivity
+https://en.wikipedia.org/wiki/History_of_the_Jews_in_Germany
+https://en.wikipedia.org/wiki/Missing_years_(Jewish_calendar)
+https://en.wikipedia.org/wiki/Mamzer
+https://en.wikipedia.org/wiki/Idumeans
+https://en.wikipedia.org/wiki/Ethnarch
+https://en.wikipedia.org/wiki/Biblical_Sabbath
+https://en.wikipedia.org/wiki/Resurrection_of_the_Dead
+https://en.wikipedia.org/wiki/Gerald_Lankester_Harding
+https://en.wikipedia.org/wiki/John_Strugnell
+https://en.wikipedia.org/wiki/Emanuel_Tov
+https://en.wikipedia.org/wiki/Muhammed_edh-Dhib
+https://en.wikipedia.org/wiki/House_of_Israel
+https://en.wikipedia.org/wiki/Arabs
+https://en.wikipedia.org/wiki/Keling
+https://en.wikipedia.org/wiki/Effeminate
+https://en.wikipedia.org/wiki/Thou_shalt_have_no_other_gods_before_me
+https://en.wikipedia.org/wiki/Thou_shalt_not_take_the_name_of_the_Lord_thy_God_in_vain
+https://en.wikipedia.org/wiki/Thou_shalt_not_steal
+https://en.wikipedia.org/wiki/Thou_shalt_not_covet
+https://en.wikipedia.org/wiki/You_shall_not_steal
+https://en.wikipedia.org/wiki/Holy_of_Holies
+https://en.wikipedia.org/wiki/Tabernacle
+https://en.wikipedia.org/wiki/Chesed
+https://en.wikipedia.org/wiki/George_Kiraz
+https://en.wikipedia.org/wiki/Ugaritic_language
+https://en.wikipedia.org/wiki/Froschauer_Bible
+https://en.wikipedia.org/wiki/Institute_for_New_Testament_Textual_Research
+https://en.wikipedia.org/wiki/New_American_Standard_Bible
+https://en.wikipedia.org/wiki/New_King_James_Bible
+https://en.wikipedia.org/wiki/Q-D-%C5%A0
+https://en.wikipedia.org/wiki/Sacred_prostitution
+https://en.wikipedia.org/wiki/Christian_views_on_marriage
+https://en.wikipedia.org/wiki/Paul_the_Apostle_and_women
+https://en.wikipedia.org/wiki/George_W._Knight_III
+https://en.wikipedia.org/wiki/Martin_Bucer
+https://en.wikipedia.org/wiki/Female_rabbis
+https://en.wikipedia.org/wiki/Canon_law_(Roman_Catholic_Church)
+https://en.wikipedia.org/wiki/Repent
+https://en.wikipedia.org/wiki/Blue_Letter_Bible
+https://en.wikipedia.org/wiki/Pali_Text_Society
+https://en.wikipedia.org/wiki/Tithe
+https://en.wikipedia.org/wiki/Repentance
+https://en.wikipedia.org/wiki/Hugo_de_Sancto_Caro
+https://en.wikipedia.org/wiki/Sof_passuk
+https://en.wikipedia.org/wiki/Zadokites
+https://en.wikipedia.org/wiki/Jubilees
+https://en.wikipedia.org/wiki/Sadducee
+https://en.wikipedia.org/wiki/James_E._Bowley
+https://en.wikipedia.org/wiki/Elijah_Levita
+https://en.wikipedia.org/wiki/Johannes_Buxtorf
+https://en.wikipedia.org/wiki/Nestle-Aland_Text
+https://en.wikipedia.org/wiki/Concordant_Literal_Version
+https://en.wikipedia.org/wiki/Moffatt,_New_Translation
+https://en.wikipedia.org/wiki/Nestle-Aland_Greek_New_Testament
+https://en.wikipedia.org/wiki/Jesus_(name)
+https://en.wikipedia.org/wiki/YHWH
+https://en.wikipedia.org/wiki/Elohim
+https://en.wikipedia.org/wiki/El_(god)
+https://en.wikipedia.org/wiki/Lord
+https://en.wikipedia.org/wiki/Saint_Augustine
+https://en.wikipedia.org/wiki/Nazarene_(title)
+https://en.wikipedia.org/wiki/Zebedee
+https://en.wikipedia.org/wiki/Catechism
+https://en.wikipedia.org/wiki/St._Ambrose
+https://en.wikipedia.org/wiki/Fundamental_theory_(canon_law)
+https://en.wikipedia.org/wiki/St_Augustine
+https://en.wikipedia.org/wiki/Particular_church
+https://en.wikipedia.org/wiki/Perugia
+https://en.wikipedia.org/wiki/Dorothy_Day
+https://en.wikipedia.org/wiki/John_XXIII
+https://en.wikipedia.org/wiki/Compassion
+https://en.wikipedia.org/wiki/Fruits_of_the_Spirit
+https://en.wikipedia.org/wiki/Narcissism
+https://en.wikipedia.org/wiki/Goal
+https://en.wikipedia.org/wiki/Ambrose_of_Milan
+https://en.wikipedia.org/wiki/Angelo_Roncalli
+https://en.wikipedia.org/wiki/IntraText
+https://en.wikipedia.org/wiki/Book_of_Optics
+https://en.wikipedia.org/wiki/Arab_people
+https://en.wikipedia.org/wiki/Caliph
+https://en.wikipedia.org/wiki/History_of_Science_and_Technology_in_China
+https://en.wikipedia.org/wiki/Shen_Kuo
+https://en.wikipedia.org/wiki/Mu%27tazili
+https://en.wikipedia.org/wiki/A._I._Sabra
+https://en.wikipedia.org/wiki/Prophets_and_messengers_in_Islam
+https://en.wikipedia.org/wiki/Islamic_prophets
+https://en.wikipedia.org/wiki/Apostle_(Islam)
+https://en.wikipedia.org/wiki/Islam_and_science
+https://en.wikipedia.org/wiki/Ulu%27l_azm_prophets
+https://en.wikipedia.org/wiki/Canaan
+https://en.wikipedia.org/wiki/Ma_malakat_aymanukum
+https://en.wikipedia.org/wiki/Syriac
+https://en.wikipedia.org/wiki/Israelite
+https://en.wikipedia.org/wiki/Life_of_Adam_and_Eve
+https://en.wikipedia.org/wiki/Apocalypse_of_Moses
+https://en.wikipedia.org/wiki/Dead_Sea_Scroll
+https://en.wikipedia.org/wiki/Human_being
+https://en.wikipedia.org/wiki/Race_(human_classification)
+https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain
+https://en.wikipedia.org/wiki/Serpent_(Bible)
+https://en.wikipedia.org/wiki/Mark_of_Cain
+https://en.wikipedia.org/wiki/Thomas_Hardy
+https://en.wikipedia.org/wiki/Vulgate_Bible
+https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
+https://en.wikipedia.org/wiki/Esau
+https://en.wikipedia.org/wiki/El_(deity)
+https://en.wikipedia.org/wiki/Hagar_(biblical_person)
+https://en.wikipedia.org/wiki/Hagar
+https://en.wikipedia.org/wiki/Edomites
+https://en.wikipedia.org/wiki/Tribes_of_Israel
+https://en.wikipedia.org/wiki/Canaanites
+https://en.wikipedia.org/wiki/Theophory_in_the_Bible
+https://en.wikipedia.org/wiki/Adon
+https://en.wikipedia.org/wiki/Land_of_Canaan
+https://en.wikipedia.org/wiki/Allogenes
+https://en.wikipedia.org/wiki/Dead_Sea_scrolls
+https://en.wikipedia.org/wiki/Mara_d%27atra
+https://en.wikipedia.org/wiki/Reform_movement_in_Judaism
+https://en.wikipedia.org/wiki/Qedesha
+https://en.wikipedia.org/wiki/Temple_prostitutes
+https://en.wikipedia.org/wiki/Hierodule
+https://en.wikipedia.org/wiki/Nethinim
+https://en.wikipedia.org/wiki/Salem_Web_Network
+https://en.wikipedia.org/wiki/Discourse_on_the_Tides
+https://en.wikipedia.org/wiki/Consilience
+https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon
+https://en.wikipedia.org/wiki/Anukrama%E1%B9%87%C4%AB
+https://en.wikipedia.org/wiki/Harvard_Oriental_Series
+https://en.wikipedia.org/wiki/Text_corpus
+https://en.wikipedia.org/wiki/Automated_essay_scoring
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+https://en.wikipedia.org/wiki/Natural_Language_Processing
+https://en.wikipedia.org/wiki/Speech_corpus
+https://en.wikipedia.org/wiki/Stop_words
+https://en.wikipedia.org/wiki/Bag-of-words_model
+https://en.wikipedia.org/wiki/AI-complete
+https://en.wikipedia.org/wiki/N-gram
+https://en.wikipedia.org/wiki/Bigram
+https://en.wikipedia.org/wiki/Trigrams
+https://en.wikipedia.org/wiki/Text_segmentation
+https://en.wikipedia.org/wiki/Part-of-speech_tagging
+https://en.wikipedia.org/wiki/Shallow_parsing
+https://en.wikipedia.org/wiki/Compound_term_processing
+https://en.wikipedia.org/wiki/Collocation_extraction
+https://en.wikipedia.org/wiki/Stemming
+https://en.wikipedia.org/wiki/Named_entity_recognition
+https://en.wikipedia.org/wiki/Sentiment_analysis
+https://en.wikipedia.org/wiki/Concept_mining
+https://en.wikipedia.org/wiki/Word_sense_disambiguation
+https://en.wikipedia.org/wiki/Terminology_extraction
+https://en.wikipedia.org/wiki/Truecasing
+https://en.wikipedia.org/wiki/Multi-document_summarization
+https://en.wikipedia.org/wiki/Sentence_extraction
+https://en.wikipedia.org/wiki/Text_simplification
+https://en.wikipedia.org/wiki/Machine_Translation
+https://en.wikipedia.org/wiki/Computer-assisted_translation
+https://en.wikipedia.org/wiki/Speech_recognition
+https://en.wikipedia.org/wiki/Speech_synthesis
+https://en.wikipedia.org/wiki/Optical_character_recognition
+https://en.wikipedia.org/wiki/Natural_language_generation
+https://en.wikipedia.org/wiki/Pachinko_allocation
+https://en.wikipedia.org/wiki/Grammar_checker
+https://en.wikipedia.org/wiki/Question_answering
+https://en.wikipedia.org/wiki/Chatterbot
+https://en.wikipedia.org/wiki/Automated_online_assistant
+https://en.wikipedia.org/wiki/Latent_semantic_indexing
+https://en.wikipedia.org/wiki/Translation_memory
+https://en.wikipedia.org/wiki/Machine_translation
+https://en.wikipedia.org/wiki/Natural_language_processing
+https://en.wikipedia.org/wiki/Parallel_text
+https://en.wikipedia.org/wiki/Literary_translation
+https://en.wikipedia.org/wiki/Translator
+https://en.wikipedia.org/wiki/False_cognate
+https://en.wikipedia.org/wiki/Literary_translator
+https://en.wikipedia.org/wiki/Tahash
+https://en.wikipedia.org/wiki/Named_entity
+https://en.wikipedia.org/wiki/Corpus_linguistics
+https://en.wikipedia.org/wiki/Word-sense_disambiguation
+https://en.wikipedia.org/wiki/World_Book_Dictionary
+https://en.wikipedia.org/wiki/Sketch_Engine
+https://en.wikipedia.org/wiki/WordSmith
+https://en.wikipedia.org/wiki/Search_engine_indexing
+https://en.wikipedia.org/wiki/American_Society_for_Indexing
+https://en.wikipedia.org/wiki/Full_text_search
+https://en.wikipedia.org/wiki/Ptx_(Unix)
+https://en.wikipedia.org/wiki/Permuted_index
+https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China
+https://en.wikipedia.org/wiki/History_of_economic_thought
+https://en.wikipedia.org/wiki/Evolutionary_theory
+https://en.wikipedia.org/wiki/Jehovah
+https://en.wikipedia.org/wiki/I_am_that_I_am
+https://en.wikipedia.org/wiki/Theodoret
+https://en.wikipedia.org/wiki/Jah
+https://en.wikipedia.org/wiki/Tetragrammaton_in_the_New_Testament
+https://en.wikipedia.org/wiki/Theophoric_names_in_the_Bible
+https://en.wikipedia.org/wiki/Ehyeh
+https://en.wikipedia.org/wiki/Greek_Old_Testament
+https://en.wikipedia.org/wiki/Nova_Vulgata
+https://en.wikipedia.org/wiki/El_Shaddai
+https://en.wikipedia.org/wiki/I_Am_that_I_Am
+https://en.wikipedia.org/wiki/Vincenzo_Pecci
+https://en.wikipedia.org/wiki/Leo_XIII
+https://en.wikipedia.org/wiki/Mishkan
+https://en.wikipedia.org/wiki/Ten_plagues_of_Egypt
+https://en.wikipedia.org/wiki/Strong%27s_concordance
+https://en.wikipedia.org/wiki/Hugh_of_St._Cher
+https://en.wikipedia.org/wiki/Arlotto_of_Prato
+https://en.wikipedia.org/wiki/Giles_Antonini
+https://en.wikipedia.org/wiki/Giles_of_Viterbo
+https://en.wikipedia.org/wiki/Greco-Roman_magic
+https://en.wikipedia.org/wiki/Evil_spirit
+https://en.wikipedia.org/wiki/Demon
+https://en.wikipedia.org/wiki/Prophets_in_the_Quran
+https://en.wikipedia.org/wiki/Joshua_in_Islam
+https://en.wikipedia.org/wiki/Sons_of_Jacob
+https://en.wikipedia.org/wiki/Exclusive_Brethren
+https://en.wikipedia.org/wiki/Plymouth_Brethren_Christian_Church
+https://en.wikipedia.org/wiki/Darbyites
+https://en.wikipedia.org/wiki/Vine%27s_Expository_Dictionary
+https://en.wikipedia.org/wiki/Seven-day_week
+https://en.wikipedia.org/wiki/Latter-day_Saints
+https://en.wikipedia.org/wiki/Se%27nnight
+https://en.wikipedia.org/wiki/Pharisee
+https://en.wikipedia.org/wiki/SAT
+https://en.wikipedia.org/wiki/ACT_(test)
+https://en.wikipedia.org/wiki/List_of_Drew_University_people
+https://en.wikipedia.org/wiki/Biomass_briquettes
+https://en.wikipedia.org/wiki/North_Kivu
+https://en.wikipedia.org/wiki/Democratic_Republic_of_Congo
+https://en.wikipedia.org/wiki/Virunga_National_Park
+https://en.wikipedia.org/wiki/Remote-area_power_supply
+https://en.wikipedia.org/wiki/Building_integrated_photovoltaics
+https://en.wikipedia.org/wiki/Photovoltaic_power_stations
+https://en.wikipedia.org/wiki/Nellis_Solar_Power_Plant
+https://en.wikipedia.org/wiki/Solar_power_station_in_Victoria
+https://en.wikipedia.org/wiki/Girassol_solar_power_plant
+https://en.wikipedia.org/wiki/Waldpolenz_Solar_Park
+https://en.wikipedia.org/wiki/Wind_farm
+https://en.wikipedia.org/wiki/Megawatts
+https://en.wikipedia.org/wiki/Wind_power_in_Denmark
+https://en.wikipedia.org/wiki/Wind_power_in_Spain
+https://en.wikipedia.org/wiki/Wind_power_in_Germany
+https://en.wikipedia.org/wiki/California
+https://en.wikipedia.org/wiki/Solar_Energy_Generating_Systems
+https://en.wikipedia.org/wiki/Nevada_Solar_One
+https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Israel
+https://en.wikipedia.org/wiki/Brazil
+https://en.wikipedia.org/wiki/Ethanol_fuel
+https://en.wikipedia.org/wiki/Sugar_cane
+https://en.wikipedia.org/wiki/Ethanol
+https://en.wikipedia.org/wiki/Ford_Motor_Company
+https://en.wikipedia.org/wiki/DaimlerChrysler
+https://en.wikipedia.org/wiki/General_Motors_Corporation
+https://en.wikipedia.org/wiki/Seasonal_thermal_energy_storage
+https://en.wikipedia.org/wiki/Municipal_solid_waste
+https://en.wikipedia.org/wiki/Energy_crop
+https://en.wikipedia.org/wiki/Tidal_stream_generator
+https://en.wikipedia.org/wiki/SeaGen
+https://en.wikipedia.org/wiki/Strangford_Lough
+https://en.wikipedia.org/wiki/Wake
+https://en.wikipedia.org/wiki/Portugal
+https://en.wikipedia.org/wiki/Wave_farm
+https://en.wikipedia.org/wiki/Agu%C3%A7adora_Wave_Park
+https://en.wikipedia.org/wiki/Pelamis_Wave_Energy_Converter
+https://en.wikipedia.org/wiki/Euro
+https://en.wikipedia.org/wiki/Scotland
+https://en.wikipedia.org/wiki/Scottish_Executive
+https://en.wikipedia.org/wiki/Pound_sterling

@@ -1,0 +1,27 @@
+Qualitative Analysis
+
+From the algorithm we can see that more links referring to a page will imply that that page has more useful content which is related to the topic being queried. Hence I would start of by stating that higher the inlinks to a page, higher will be its page rank value. In other words PageRank and Inlinks of a page are directly proportional. But the algorithm doesnot work on inlinks count alone. It also considers the number of outlinks that a particular inlinks page has. 
+
+Top 5 pages of WG1:
+Integrated_Authority_File: Page Rank value: 0.11037285817023128| Inlink Count:215| Outlink Count: 1
+
+Digital_object_identifier: Page Rank value: 0.02872916225464661| Inlink Count:430| Outlink Count: 7
+
+International_Standard_Book_Number: Page Rank value: 0.02367146938960017| Inlink Count:464| Outlink Count: 6
+
+PubMed_Identifier: Page Rank value: 0.014364511303813459| Inlink Count:161| Outlink Count: 2
+
+Wayback_Machine: Page Rank value: 0.014186975456208334| Inlink Count:190| Outlink Count: 3
+
+
+Top 5 pages of WG2:
+WT21-B37-76: Page Rank value: 0.002694532915995804| Inlink Count:2568| Outlink Count: 5
+
+WT21-B37-75: Page Rank value: 0.0015332157722525548| Inlink Count:1704| Outlink Count: 1
+
+WT25-B39-116: Page Rank value: 0.0014665986732418914| Inlink Count:169| Outlink Count: 1
+
+WT23-B21-53: Page Rank value: 0.0013710814001864917| Inlink Count:198| Outlink Count: 1
+
+WT24-B26-10: Page Rank value: 0.0012731346032355496| Inlink Count:291| Outlink Count: 1
+

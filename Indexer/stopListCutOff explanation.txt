@@ -1,0 +1,3 @@
+Zipf (1949) observed that in a data collection the frequency
+of a given word is inversely proportional to its rank. Zipf law inspired the classic method to generate stoplists. The size of the
+stoplist corresponds to where an “elbow” appears in the plot. Looking at the graph for unigrams I would consider the 500 mmost common occuring words to be a part of my stoplist. as it is at 500 that the elbow appears. 

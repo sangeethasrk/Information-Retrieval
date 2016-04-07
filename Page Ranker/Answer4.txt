@@ -1,0 +1,11 @@
+Proportion Analysis for WG1 file
+Proportion of pages with no in-linksis 0.00 (0%)
+Proportion of pages with no outlinks is 0.005 (0.5%)
+
+Proportion Analysis for WG2 file
+Proportion of pages with no in-links 0.07806932120493333 (7.80%)
+Proportion of pages with no outlinks 0.3600165387272797
+ (36.001%)
+
+Log-Log Scale Curve
+Both WG1 and WG2, as number of inlinks increases the number of web pages exponentially decrease and it follows the Power Law distribution for both WG1 and WG2.

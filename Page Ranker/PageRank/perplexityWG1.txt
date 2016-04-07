@@ -1,0 +1,12 @@
+Perplexity value for iteration 1 : 120.07194389884637
+Perplexity value for iteration 2 : 121.24229495392835
+Perplexity value for iteration 3 : 97.69966879048629
+Perplexity value for iteration 4 : 83.2820953584702
+Perplexity value for iteration 5 : 74.81799093754519
+Perplexity value for iteration 6 : 69.65499965486924
+Perplexity value for iteration 7 : 66.39867658484806
+Perplexity value for iteration 8 : 64.2990225797652
+Perplexity value for iteration 9 : 62.92773533635909
+Perplexity value for iteration 10 : 62.027412140279964
+Perplexity value for iteration 11 : 61.43708756412205
+Perplexity value for iteration 12 : 61.0530540916282
